@@ -6,14 +6,19 @@
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
   <!-- Import vega-embed -->
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+  
 </head>
 <body>
-
-<div id="vis"></div>
+  
+<div id="symbol_map"></div>
 
 <script type="text/javascript">
-  var spec = "https://berniejenny.github.io/FIT3179_simple_vega-lite/basic-bar-chart.vg.json";
-  vegaEmbed('#vis', spec).then(function(result) {
+
+  var spec2 = "js/symbol_map.json";
+  vegaEmbed('#symbol_map', spec2).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
   }).catch(console.error);
 </script>
