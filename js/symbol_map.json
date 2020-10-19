@@ -19,7 +19,7 @@
       "mark": {"type": "circle", "tooltip": {"content": "data"}},
       "encoding": {
         "longitude":{"field":"Longitude","type":"quantitative"},
-        "latitude":{"field":"Latitude","type": "quantitative"},
+        "latitude":{"field":"Latitude ","type": "quantitative"},
         "size":{
           "field": "Total",
           "type": "quantitative"
