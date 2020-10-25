@@ -1,1657 +1,1657 @@
-Year,"Sort
-order",Country,Total,Continent
-,,,,
-1990,1990024,Burundi,"333,110",Africa
-1990,1990025,Comoros,"14,079",Africa
-1990,1990026,Djibouti,"122,221",Africa
-1990,1990027,Eritrea,"11,848",Africa
-1990,1990028,Ethiopia,"1,155,390",Africa
-1990,1990029,Kenya,"298,089",Africa
-1990,1990030,Madagascar,"23,917",Africa
-1990,1990031,Malawi,"1,127,724",Africa
-1990,1990032,Mauritius,"3,613",Africa
-1990,1990033,Mayotte,"15,229",Africa
-1990,1990034,Mozambique,"122,332",Africa
-1990,1990035,Réunion,"57,210",Africa
-1990,1990036,Rwanda,"160,024",Africa
-1990,1990037,Seychelles,"3,721",Africa
-1990,1990038,Somalia,"478,294",Africa
-1990,1990039,South Sudan,..,Africa
-1990,1990040,Uganda,"544,273",Africa
-1990,1990041,United Republic of Tanzania,"574,025",Africa
-1990,1990042,Zambia,"279,463",Africa
-1990,1990043,Zimbabwe,"634,621",Africa
-1990,1990045,Angola,"33,517",Africa
-1990,1990046,Cameroon,"265,967",Africa
-1990,1990047,Central African Republic,"67,234",Africa
-1990,1990048,Chad,"74,342",Africa
-1990,1990049,Congo,"129,391",Africa
-1990,1990050,Democratic Republic of the Congo,"754,194",Africa
-1990,1990051,Equatorial Guinea,"2,740",Africa
-1990,1990052,Gabon,"128,188",Africa
-1990,1990053,Sao Tome and Principe,"5,582",Africa
-1990,1990055,Botswana,"27,510",Africa
-1990,1990056,Eswatini,"74,991",Africa
-1990,1990057,Lesotho,"8,240",Africa
-1990,1990058,Namibia,"120,641",Africa
-1990,1990059,South Africa,"1,163,883",Africa
-1990,1990061,Benin,"76,751",Africa
-1990,1990062,Burkina Faso,"349,652",Africa
-1990,1990063,Cabo Verde,"8,931",Africa
-1990,1990064,Côte d'Ivoire,"1,816,426",Africa
-1990,1990065,Gambia,"118,123",Africa
-1990,1990066,Ghana,"164,851",Africa
-1990,1990067,Guinea,"403,621",Africa
-1990,1990068,Guinea-Bissau,"15,368",Africa
-1990,1990069,Liberia,"94,964",Africa
-1990,1990070,Mali,"160,736",Africa
-1990,1990071,Mauritania,"111,650",Africa
-1990,1990072,Niger,"115,464",Africa
-1990,1990073,Nigeria,"456,621",Africa
-1990,1990074,Saint Helena,178,Africa
-1990,1990075,Senegal,"270,410",Africa
-1990,1990076,Sierra Leone,"222,148",Africa
-1990,1990077,Togo,"84,844",Africa
-1990,1990080,Algeria,"273,954",Africa
-1990,1990081,Egypt,"173,833",Africa
-1990,1990082,Libya,"457,075",Africa
-1990,1990083,Morocco,"54,895",Africa
-1990,1990084,Sudan,"1,402,896",Africa
-1990,1990085,Tunisia,"37,984",Africa
-1990,1990086,Western Sahara,"2,688",Africa
-1990,1990088,Armenia,"658,789",Asia
-1990,1990089,Azerbaijan,"360,600",Asia
-1990,1990090,Bahrain,"173,212",Asia
-1990,1990091,Cyprus,"43,805",Asia
-1990,1990092,Georgia,"304,470",Asia
-1990,1990093,Iraq,"83,638",Asia
-1990,1990094,Israel,"1,632,704",Asia
-1990,1990095,Jordan,"1,146,349",Asia
-1990,1990096,Kuwait,"1,074,391",Asia
-1990,1990097,Lebanon,"523,693",Asia
-1990,1990098,Oman,"304,000",Asia
-1990,1990099,Qatar,"309,753",Asia
-1990,1990100,Saudi Arabia,"4,998,445",Asia
-1990,1990101,State of Palestine,"288,332",Asia
-1990,1990102,Syrian Arab Republic,"714,140",Asia
-1990,1990103,Turkey,"1,163,686",Asia
-1990,1990104,United Arab Emirates,"1,306,574",Asia
-1990,1990105,Yemen,"118,863",Asia
-1990,1990108,Kazakhstan,"3,619,200",Asia
-1990,1990109,Kyrgyzstan,"623,083",Asia
-1990,1990110,Tajikistan,"428,900",Asia
-1990,1990111,Turkmenistan,"306,500",Asia
-1990,1990112,Uzbekistan,"1,653,000",Asia
-1990,1990114,Afghanistan,"57,686",Asia
-1990,1990115,Bangladesh,"881,617",Asia
-1990,1990116,Bhutan,"23,807",Asia
-1990,1990117,India,"7,594,801",Asia
-1990,1990118,Iran (Islamic Republic of),"4,291,601",Asia
-1990,1990119,Maldives,"8,689",Asia
-1990,1990120,Nepal,"429,974",Asia
-1990,1990121,Pakistan,"6,208,204",Asia
-1990,1990122,Sri Lanka,"41,561",Asia
-1990,1990125,China,"376,361",Asia
-1990,1990126,"China, Hong Kong SAR","2,218,473",Asia
-1990,1990127,"China, Macao SAR","205,047",Asia
-1990,1990128,Dem. People's Republic of Korea,"34,103",Asia
-1990,1990129,Japan,"1,075,317",Asia
-1990,1990130,Mongolia,"6,718",Asia
-1990,1990131,Republic of Korea,"43,247",Asia
-1990,1990133,Brunei Darussalam,"73,200",Asia
-1990,1990134,Cambodia,"38,375",Asia
-1990,1990135,Indonesia,"465,612",Asia
-1990,1990136,Lao People's Democratic Republic,"22,866",Asia
-1990,1990137,Malaysia,"695,920",Asia
-1990,1990138,Myanmar,"133,545",Asia
-1990,1990139,Philippines,"154,071",Asia
-1990,1990140,Singapore,"727,262",Asia
-1990,1990141,Thailand,"528,693",Asia
-1990,1990142,Timor-Leste,"8,954",Asia
-1990,1990143,Viet Nam,"28,118",Asia
-1990,1990145,Caribbean,"1,056,483",North America 
-1990,1990146,Anguilla,"2,570",North America 
-1990,1990147,Antigua and Barbuda,"12,029",North America 
-1990,1990148,Aruba,"14,444",North America 
-1990,1990149,Bahamas,"26,855",North America 
-1990,1990150,Barbados,"24,024",North America 
-1990,1990151,British Virgin Islands,"8,035",North America 
-1990,1990152,"Bonaire, Sint Eustatius and Saba","38,410",North America 
-1990,1990153,Cayman Islands,"9,315",North America 
-1990,1990154,Cuba,"34,555",North America 
-1990,1990155,Curaçao,,North America 
-1990,1990156,Dominica,"2,519",North America 
-1990,1990157,Dominican Republic,"291,151",North America 
-1990,1990158,Grenada,"4,263",North America 
-1990,1990159,Guadeloupe,"65,944",North America 
-1990,1990160,Haiti,"19,084",North America 
-1990,1990161,Jamaica,"20,475",North America 
-1990,1990162,Martinique,"38,705",North America 
-1990,1990163,Montserrat,"2,013",North America 
-1990,1990164,Puerto Rico,"321,909",North America 
-1990,1990165,Saint Kitts and Nevis,"3,210",North America 
-1990,1990166,Saint Lucia,"5,305",North America 
-1990,1990167,Saint Vincent and the Grenadines,"3,970",North America 
-1990,1990168,Sint Maarten (Dutch part),..,North America 
-1990,1990169,Trinidad and Tobago,"50,666",North America 
-1990,1990170,Turks and Caicos Islands,"5,062",North America 
-1990,1990171,United States Virgin Islands,"51,970",North America 
-1990,1990173,Belize,"30,404",North America 
-1990,1990174,Costa Rica,"417,628",North America 
-1990,1990175,El Salvador,"47,360",North America 
-1990,1990176,Guatemala,"264,257",North America 
-1990,1990177,Honduras,"270,423",North America 
-1990,1990178,Mexico,"695,674",North America 
-1990,1990179,Nicaragua,"41,421",North America 
-1990,1990180,Panama,"62,744",North America 
-1990,1990182,Argentina,"1,649,919",South America
-1990,1990183,Bolivia (Plurinational State of),"73,758",South America
-1990,1990184,Brazil,"798,517",South America
-1990,1990185,Chile,"107,501",South America
-1990,1990186,Colombia,"104,277",South America
-1990,1990187,Ecuador,"78,663",South America
-1990,1990188,Falkland Islands (Malvinas),855,South America
-1990,1990189,French Guiana,"63,612",South America
-1990,1990190,Guyana,"4,095",South America
-1990,1990191,Paraguay,"195,884",South America
-1990,1990192,Peru,"56,688",South America
-1990,1990193,Suriname,"18,083",South America
-1990,1990194,Uruguay,"98,116",South America
-1990,1990195,Venezuela (Bolivarian Republic of),"1,025,009",South America
-1990,1990197,Australia / New Zealand,"4,473,260",Oceania
-1990,1990198,Australia,"3,955,213",Oceania
-1990,1990199,New Zealand,"518,047",Oceania
-1990,1990200,Melanesia,"91,200",Oceania
-1990,1990201,Fiji,"13,283",Oceania
-1990,1990202,New Caledonia,"37,673",Oceania
-1990,1990203,Papua New Guinea,"33,710",Oceania
-1990,1990204,Solomon Islands,"4,226",Oceania
-1990,1990205,Vanuatu,"2,308",Oceania
-1990,1990206,Micronesia,"108,969",Oceania
-1990,1990207,Guam,"69,755",Oceania
-1990,1990208,Kiribati,"2,162",Oceania
-1990,1990209,Marshall Islands,"1,158",Oceania
-1990,1990210,Micronesia (Fed. States of),"3,685",Oceania
-1990,1990211,Nauru,"2,815",Oceania
-1990,1990212,Northern Mariana Islands,"26,593",Oceania
-1990,1990213,Palau,"2,801",Oceania
-1990,1990214,Polynesia,"58,419",Oceania
-1990,1990215,American Samoa,"21,283",Oceania
-1990,1990216,Cook Islands,"2,587",Oceania
-1990,1990217,French Polynesia,"25,830",Oceania
-1990,1990218,Niue,461,Oceania
-1990,1990219,Samoa,"3,357",Oceania
-1990,1990220,Tokelau,270,Oceania
-1990,1990221,Tonga,"2,911",Oceania
-1990,1990222,Tuvalu,318,Oceania
-1990,1990223,Wallis and Futuna Islands,"1,402",Oceania
-1990,1990227,Belarus,"1,248,977",Europe
-1990,1990228,Bulgaria,"21,510",Europe
-1990,1990229,Czechia,"110,394",Europe
-1990,1990230,Hungary,"347,510",Europe
-1990,1990231,Poland,"1,127,771",Europe
-1990,1990232,Republic of Moldova,"544,162",Europe
-1990,1990233,Romania,"135,825",Europe
-1990,1990234,Russian Federation,"11,524,948",Europe
-1990,1990235,Slovakia,"41,295",Europe
-1990,1990236,Ukraine,"6,892,920",Europe
-1990,1990238,Channel Islands,"61,660",Europe
-1990,1990239,Denmark,"235,189",Europe
-1990,1990240,Estonia,"381,997",Europe
-1990,1990241,Faroe Islands,"4,285",Europe
-1990,1990242,Finland,"63,255",Europe
-1990,1990243,Iceland,"9,584",Europe
-1990,1990244,Ireland,"227,961",Europe
-1990,1990245,Isle of Man,"34,769",Europe
-1990,1990246,Latvia,"646,007",Europe
-1990,1990247,Lithuania,"349,258",Europe
-1990,1990248,Norway,"192,587",Europe
-1990,1990249,Sweden,"788,767",Europe
-1990,1990250,United Kingdom,"3,650,286",Europe
-1990,1990252,Albania,"66,013",Europe
-1990,1990253,Andorra,"38,891",Europe
-1990,1990254,Bosnia and Herzegovina,"56,000",Europe
-1990,1990255,Croatia,"475,438",Europe
-1990,1990256,Gibraltar,"8,709",Europe
-1990,1990257,Greece,"618,139",Europe
-1990,1990258,Holy See,768,Europe
-1990,1990259,Italy,"1,428,219",Europe
-1990,1990260,Malta,"15,077",Europe
-1990,1990261,Montenegro,,Europe
-1990,1990262,North Macedonia,"95,142",Europe
-1990,1990263,Portugal,"435,782",Europe
-1990,1990264,San Marino,"3,310",Europe
-1990,1990265,Serbia,"99,269",Europe
-1990,1990266,Slovenia,"178,077",Europe
-1990,1990267,Spain,"821,605",Europe
-1990,1990269,Austria,"793,239",Europe
-1990,1990270,Belgium,"1,280,583",Europe
-1990,1990271,France,"5,897,267",Europe
-1990,1990272,Germany,"5,936,181",Europe
-1990,1990273,Liechtenstein,"10,906",Europe
-1990,1990274,Luxembourg,"113,795",Europe
-1990,1990275,Monaco,"20,359",Europe
-1990,1990276,Netherlands,"1,182,263",Europe
-1990,1990277,Switzerland,"1,392,282",Europe
-1990,1990279,Bermuda,"15,683",North America 
-1990,1990280,Canada,"4,333,318",North America 
-1990,1990281,Greenland,"9,282",North America 
-1990,1990282,Saint Pierre and Miquelon,"1,099",North America 
-1990,1990283,United States of America,"23,251,026",North America 
-1995,1995024,Burundi,"254,853",Africa
-1995,1995025,Comoros,"13,939",Africa
-1995,1995026,Djibouti,"99,774",Africa
-1995,1995027,Eritrea,"12,400",Africa
-1995,1995028,Ethiopia,"806,904",Africa
-1995,1995029,Kenya,"618,745",Africa
-1995,1995030,Madagascar,"21,177",Africa
-1995,1995031,Malawi,"241,624",Africa
-1995,1995032,Mauritius,"7,493",Africa
-1995,1995033,Mayotte,"26,316",Africa
-1995,1995034,Mozambique,"168,256",Africa
-1995,1995035,Réunion,"77,159",Africa
-1995,1995036,Rwanda,"215,735",Africa
-1995,1995037,Seychelles,"5,148",Africa
-1995,1995038,Somalia,"19,527",Africa
-1995,1995039,South Sudan,..,Africa
-1995,1995040,Uganda,"606,987",Africa
-1995,1995041,United Republic of Tanzania,"1,106,043",Africa
-1995,1995042,Zambia,"244,338",Africa
-1995,1995043,Zimbabwe,"431,226",Africa
-1995,1995045,Angola,"39,813",Africa
-1995,1995046,Cameroon,"244,791",Africa
-1995,1995047,Central African Republic,"99,712",Africa
-1995,1995048,Chad,"89,584",Africa
-1995,1995049,Congo,"191,635",Africa
-1995,1995050,Democratic Republic of the Congo,"1,816,963",Africa
-1995,1995051,Equatorial Guinea,"3,629",Africa
-1995,1995052,Gabon,"171,427",Africa
-1995,1995053,Sao Tome and Principe,"4,936",Africa
-1995,1995055,Botswana,"40,168",Africa
-1995,1995056,Eswatini,"35,157",Africa
-1995,1995057,Lesotho,"7,204",Africa
-1995,1995058,Namibia,"115,372",Africa
-1995,1995059,South Africa,"1,003,807",Africa
-1995,1995061,Benin,"105,703",Africa
-1995,1995062,Burkina Faso,"464,104",Africa
-1995,1995063,Cabo Verde,"9,979",Africa
-1995,1995064,Côte d'Ivoire,"2,076,394",Africa
-1995,1995065,Gambia,"150,890",Africa
-1995,1995066,Ghana,"252,879",Africa
-1995,1995067,Guinea,"774,505",Africa
-1995,1995068,Guinea-Bissau,"27,961",Africa
-1995,1995069,Liberia,"208,563",Africa
-1995,1995070,Mali,"176,187",Africa
-1995,1995071,Mauritania,"89,562",Africa
-1995,1995072,Niger,"145,999",Africa
-1995,1995073,Nigeria,"462,999",Africa
-1995,1995074,Saint Helena,117,Africa
-1995,1995075,Senegal,"287,654",Africa
-1995,1995076,Sierra Leone,"98,516",Africa
-1995,1995077,Togo,"101,583",Africa
-1995,1995080,Algeria,"262,032",Africa
-1995,1995081,Egypt,"166,955",Africa
-1995,1995082,Libya,"508,041",Africa
-1995,1995083,Morocco,"50,360",Africa
-1995,1995084,Sudan,"1,053,396",Africa
-1995,1995085,Tunisia,"37,867",Africa
-1995,1995086,Western Sahara,"2,989",Africa
-1995,1995088,Armenia,"693,999",Asia
-1995,1995089,Azerbaijan,"344,070",Asia
-1995,1995090,Bahrain,"205,979",Asia
-1995,1995091,Cyprus,"61,941",Asia
-1995,1995092,Georgia,"152,235",Asia
-1995,1995093,Iraq,"199,460",Asia
-1995,1995094,Israel,"1,792,185",Asia
-1995,1995095,Jordan,"1,537,097",Asia
-1995,1995096,Kuwait,"921,954",Asia
-1995,1995097,Lebanon,"608,303",Asia
-1995,1995098,Oman,"539,643",Asia
-1995,1995099,Qatar,"361,673",Asia
-1995,1995100,Saudi Arabia,"5,122,702",Asia
-1995,1995101,State of Palestine,"281,767",Asia
-1995,1995102,Syrian Arab Republic,"830,610",Asia
-1995,1995103,Turkey,"1,216,173",Asia
-1995,1995104,United Arab Emirates,"1,824,118",Asia
-1995,1995105,Yemen,"136,515",Asia
-1995,1995108,Kazakhstan,"3,251,968",Asia
-1995,1995109,Kyrgyzstan,"518,338",Asia
-1995,1995110,Tajikistan,"348,347",Asia
-1995,1995111,Turkmenistan,"273,565",Asia
-1995,1995112,Uzbekistan,"1,512,577",Asia
-1995,1995114,Afghanistan,"71,522",Asia
-1995,1995115,Bangladesh,"934,735",Asia
-1995,1995116,Bhutan,"27,972",Asia
-1995,1995117,India,"6,952,238",Asia
-1995,1995118,Iran ,"2,937,668",Asia
-1995,1995119,Maldives,"18,510",Asia
-1995,1995120,Nepal,"690,225",Asia
-1995,1995121,Pakistan,"3,669,308",Asia
-1995,1995122,Sri Lanka,"40,841",Asia
-1995,1995125,China,"442,198",Asia
-1995,1995126,"China, Hong Kong SAR","2,443,798",Asia
-1995,1995127,"China, Macao SAR","224,929",Asia
-1995,1995128,Dem. People's Republic of Korea,"35,143",Asia
-1995,1995129,Japan,"1,362,371",Asia
-1995,1995130,Mongolia,"7,424",Asia
-1995,1995131,Republic of Korea,"123,886",Asia
-1995,1995133,Brunei Darussalam,"84,748",Asia
-1995,1995134,Cambodia,"92,230",Asia
-1995,1995135,Indonesia,"378,960",Asia
-1995,1995136,Lao People's Democratic Republic,"23,526",Asia
-1995,1995137,Malaysia,"937,368",Asia
-1995,1995138,Myanmar,"113,663",Asia
-1995,1995139,Philippines,"207,345",Asia
-1995,1995140,Singapore,"991,492",Asia
-1995,1995141,Thailand,"809,720",Asia
-1995,1995142,Timor-Leste,"9,743",Asia
-1995,1995143,Viet Nam,"51,262",Asia
-1995,1995145,Caribbean,"1,148,720",North America 
-1995,1995146,Anguilla,"3,317",North America 
-1995,1995147,Antigua and Barbuda,"17,550",North America 
-1995,1995148,Aruba,"22,274",North America 
-1995,1995149,Bahamas,"31,654",North America 
-1995,1995150,Barbados,"26,224",North America 
-1995,1995151,British Virgin Islands,"10,046",North America 
-1995,1995152,"Bonaire, Sint Eustatius and Saba","42,258",North America 
-1995,1995153,Cayman Islands,"12,666",North America 
-1995,1995154,Cuba,"26,187",North America 
-1995,1995155,Curaçao,,North America 
-1995,1995156,Dominica,"3,121",North America 
-1995,1995157,Dominican Republic,"323,381",North America 
-1995,1995158,Grenada,"5,544",North America 
-1995,1995159,Guadeloupe,"74,566",North America 
-1995,1995160,Haiti,"18,129",North America 
-1995,1995161,Jamaica,"22,713",North America 
-1995,1995162,Martinique,"46,599",North America 
-1995,1995163,Montserrat,"1,612",North America 
-1995,1995164,Puerto Rico,"338,067",North America 
-1995,1995165,Saint Kitts and Nevis,"4,248",North America 
-1995,1995166,Saint Lucia,"7,155",North America 
-1995,1995167,Saint Vincent and the Grenadines,"4,135",North America 
-1995,1995168,Sint Maarten (Dutch part),..,North America 
-1995,1995169,Trinidad and Tobago,"45,994",North America 
-1995,1995170,Turks and Caicos Islands,"7,039",North America 
-1995,1995171,United States Virgin Islands,"54,241",North America 
-1995,1995173,Belize,"33,446",North America 
-1995,1995174,Costa Rica,"364,287",North America 
-1995,1995175,El Salvador,"39,537",North America 
-1995,1995176,Guatemala,"156,188",North America 
-1995,1995177,Honduras,"149,442",North America 
-1995,1995178,Mexico,"458,549",North America 
-1995,1995179,Nicaragua,"26,619",North America 
-1995,1995180,Panama,"70,848",North America 
-1995,1995182,Argentina,"1,595,069",South America
-1995,1995183,Bolivia (Plurinational State of),"83,598",South America
-1995,1995184,Brazil,"741,557",South America
-1995,1995185,Chile,"142,417",South America
-1995,1995186,Colombia,"106,943",South America
-1995,1995187,Ecuador,"115,093",South America
-1995,1995188,Falkland Islands (Malvinas),868,South America
-1995,1995189,French Guiana,"70,131",South America
-1995,1995190,Guyana,"6,352",South America
-1995,1995191,Paraguay,"186,570",South America
-1995,1995192,Peru,"56,732",South America
-1995,1995193,Suriname,"22,320",South America
-1995,1995194,Uruguay,"93,428",South America
-1995,1995195,Venezuela (Bolivarian Republic of),"1,019,996",South America
-1995,1995197,Australia / New Zealand,"4,741,947",Oceania
-1995,1995198,Australia,"4,153,330",Oceania
-1995,1995199,New Zealand,"588,617",Oceania
-1995,1995200,Melanesia,"96,828",Oceania
-1995,1995201,Fiji,"13,001",Oceania
-1995,1995202,New Caledonia,"43,662",Oceania
-1995,1995203,Papua New Guinea,"33,526",Oceania
-1995,1995204,Solomon Islands,"4,178",Oceania
-1995,1995205,Vanuatu,"2,461",Oceania
-1995,1995206,Micronesia,"118,687",Oceania
-1995,1995207,Guam,"71,912",Oceania
-1995,1995208,Kiribati,"2,223",Oceania
-1995,1995209,Marshall Islands,"1,480",Oceania
-1995,1995210,Micronesia (Fed. States of),"3,342",Oceania
-1995,1995211,Nauru,"2,605",Oceania
-1995,1995212,Northern Mariana Islands,"32,376",Oceania
-1995,1995213,Palau,"4,749",Oceania
-1995,1995214,Polynesia,"64,825",Oceania
-1995,1995215,American Samoa,"23,098",Oceania
-1995,1995216,Cook Islands,"2,686",Oceania
-1995,1995217,French Polynesia,"28,360",Oceania
-1995,1995218,Niue,480,Oceania
-1995,1995219,Samoa,"4,694",Oceania
-1995,1995220,Tokelau,266,Oceania
-1995,1995221,Tonga,"3,274",Oceania
-1995,1995222,Tuvalu,263,Oceania
-1995,1995223,Wallis and Futuna Islands,"1,704",Oceania
-1995,1995227,Belarus,"1,186,282",Europe
-1995,1995228,Bulgaria,"32,435",Europe
-1995,1995229,Czechia,"165,592",Europe
-1995,1995230,Hungary,"322,234",Europe
-1995,1995231,Poland,"964,725",Europe
-1995,1995232,Republic of Moldova,"367,231",Europe
-1995,1995233,Romania,"135,037",Europe
-1995,1995234,Russian Federation,"11,928,927",Europe
-1995,1995235,Slovakia,"69,323",Europe
-1995,1995236,Ukraine,"6,172,338",Europe
-1995,1995238,Channel Islands,"60,519",Europe
-1995,1995239,Denmark,"303,108",Europe
-1995,1995240,Estonia,"315,755",Europe
-1995,1995241,Faroe Islands,"2,900",Europe
-1995,1995242,Finland,"99,729",Europe
-1995,1995243,Iceland,"12,738",Europe
-1995,1995244,Ireland,"226,892",Europe
-1995,1995245,Isle of Man,"36,886",Europe
-1995,1995246,Latvia,"538,093",Europe
-1995,1995247,Lithuania,"273,587",Europe
-1995,1995248,Norway,"233,302",Europe
-1995,1995249,Sweden,"936,022",Europe
-1995,1995250,United Kingdom,"4,155,293",Europe
-1995,1995252,Albania,"71,354",Europe
-1995,1995253,Andorra,"44,206",Europe
-1995,1995254,Bosnia and Herzegovina,"69,476",Europe
-1995,1995255,Croatia,"674,085",Europe
-1995,1995256,Gibraltar,"8,381",Europe
-1995,1995257,Greece,"857,850",Europe
-1995,1995258,Holy See,780,Europe
-1995,1995259,Italy,"1,774,954",Europe
-1995,1995260,Malta,"17,740",Europe
-1995,1995261,Montenegro,,Europe
-1995,1995262,North Macedonia,"109,343",Europe
-1995,1995263,Portugal,"532,822",Europe
-1995,1995264,San Marino,"3,659",Europe
-1995,1995265,Serbia,"870,980",Europe
-1995,1995266,Slovenia,"174,419",Europe
-1995,1995267,Spain,"1,020,067",Europe
-1995,1995269,Austria,"894,893",Europe
-1995,1995270,Belgium,"1,288,003",Europe
-1995,1995271,France,"6,087,993",Europe
-1995,1995272,Germany,"7,464,406",Europe
-1995,1995273,Liechtenstein,"13,311",Europe
-1995,1995274,Luxembourg,"126,106",Europe
-1995,1995275,Monaco,"21,060",Europe
-1995,1995276,Netherlands,"1,346,164",Europe
-1995,1995277,Switzerland,"1,478,829",Europe
-1995,1995279,Bermuda,"16,676",North America 
-1995,1995280,Canada,"4,864,778",North America 
-1995,1995281,Greenland,"7,121",North America 
-1995,1995282,Saint Pierre and Miquelon,"1,320",North America 
-1995,1995283,United States of America,"28,451,053",North America 
-2000,2000024,Burundi,"125,628",Africa
-2000,2000025,Comoros,"13,799",Africa
-2000,2000026,Djibouti,"100,507",Africa
-2000,2000027,Eritrea,"12,952",Africa
-2000,2000028,Ethiopia,"611,384",Africa
-2000,2000029,Kenya,"707,852",Africa
-2000,2000030,Madagascar,"23,541",Africa
-2000,2000031,Malawi,"232,620",Africa
-2000,2000032,Mauritius,"15,543",Africa
-2000,2000033,Mayotte,"45,474",Africa
-2000,2000034,Mozambique,"195,702",Africa
-2000,2000035,Réunion,"100,678",Africa
-2000,2000036,Rwanda,"347,076",Africa
-2000,2000037,Seychelles,"6,574",Africa
-2000,2000038,Somalia,"20,097",Africa
-2000,2000039,South Sudan,..,Africa
-2000,2000040,Uganda,"584,280",Africa
-2000,2000041,United Republic of Tanzania,"949,600",Africa
-2000,2000042,Zambia,"343,703",Africa
-2000,2000043,Zimbabwe,"410,109",Africa
-2000,2000045,Angola,"46,108",Africa
-2000,2000046,Cameroon,"227,242",Africa
-2000,2000047,Central African Republic,"123,529",Africa
-2000,2000048,Chad,"104,825",Africa
-2000,2000049,Congo,"305,880",Africa
-2000,2000050,Democratic Republic of the Congo,"744,387",Africa
-2000,2000051,Equatorial Guinea,"4,517",Africa
-2000,2000052,Gabon,"214,431",Africa
-2000,2000053,Sao Tome and Principe,"4,365",Africa
-2000,2000055,Botswana,"74,934",Africa
-2000,2000056,Eswatini,"34,084",Africa
-2000,2000057,Lesotho,"6,167",Africa
-2000,2000058,Namibia,"135,547",Africa
-2000,2000059,South Africa,"1,016,963",Africa
-2000,2000061,Benin,"134,655",Africa
-2000,2000062,Burkina Faso,"520,363",Africa
-2000,2000063,Cabo Verde,"11,027",Africa
-2000,2000064,Côte d'Ivoire,"2,163,644",Africa
-2000,2000065,Gambia,"182,514",Africa
-2000,2000066,Ghana,"191,601",Africa
-2000,2000067,Guinea,"560,075",Africa
-2000,2000068,Guinea-Bissau,"20,450",Africa
-2000,2000069,Liberia,"151,868",Africa
-2000,2000070,Mali,"189,475",Africa
-2000,2000071,Mauritania,"57,366",Africa
-2000,2000072,Niger,"122,260",Africa
-2000,2000073,Nigeria,"487,882",Africa
-2000,2000074,Saint Helena,108,Africa
-2000,2000075,Senegal,"231,901",Africa
-2000,2000076,Sierra Leone,"97,974",Africa
-2000,2000077,Togo,"137,968",Africa
-2000,2000080,Algeria,"250,110",Africa
-2000,2000081,Egypt,"184,774",Africa
-2000,2000082,Libya,"567,436",Africa
-2000,2000083,Morocco,"53,034",Africa
-2000,2000084,Sudan,"805,086",Africa
-2000,2000085,Tunisia,"36,719",Africa
-2000,2000086,Western Sahara,"3,289",Africa
-2000,2000088,Armenia,"657,900",Asia
-2000,2000089,Azerbaijan,"327,540",Asia
-2000,2000090,Bahrain,"239,361",Asia
-2000,2000091,Cyprus,"80,076",Asia
-2000,2000092,Georgia,"76,117",Asia
-2000,2000093,Iraq,"210,525",Asia
-2000,2000094,Israel,"1,851,309",Asia
-2000,2000095,Jordan,"1,927,845",Asia
-2000,2000096,Kuwait,"1,127,640",Asia
-2000,2000097,Lebanon,"692,913",Asia
-2000,2000098,Oman,"623,608",Asia
-2000,2000099,Qatar,"359,697",Asia
-2000,2000100,Saudi Arabia,"5,263,387",Asia
-2000,2000101,State of Palestine,"275,202",Asia
-2000,2000102,Syrian Arab Republic,"834,916",Asia
-2000,2000103,Turkey,"1,280,963",Asia
-2000,2000104,United Arab Emirates,"2,447,010",Asia
-2000,2000105,Yemen,"144,940",Asia
-2000,2000108,Kazakhstan,"2,874,194",Asia
-2000,2000109,Kyrgyzstan,"389,824",Asia
-2000,2000110,Tajikistan,"299,499",Asia
-2000,2000111,Turkmenistan,"219,067",Asia
-2000,2000112,Uzbekistan,"1,406,498",Asia
-2000,2000114,Afghanistan,"75,917",Asia
-2000,2000115,Bangladesh,"987,853",Asia
-2000,2000116,Bhutan,"32,137",Asia
-2000,2000117,India,"6,411,331",Asia
-2000,2000118,Iran (Islamic Republic of),"2,803,805",Asia
-2000,2000119,Maldives,"27,092",Asia
-2000,2000120,Nepal,"717,900",Asia
-2000,2000121,Pakistan,"4,181,912",Asia
-2000,2000122,Sri Lanka,"40,132",Asia
-2000,2000125,China,"508,034",Asia
-2000,2000126,"China, Hong Kong SAR","2,669,122",Asia
-2000,2000127,"China, Macao SAR","240,791",Asia
-2000,2000128,Dem. People's Republic of Korea,"36,183",Asia
-2000,2000129,Japan,"1,686,444",Asia
-2000,2000130,Mongolia,"8,206",Asia
-2000,2000131,Republic of Korea,"244,224",Asia
-2000,2000133,Brunei Darussalam,"96,296",Asia
-2000,2000134,Cambodia,"146,085",Asia
-2000,2000135,Indonesia,"292,307",Asia
-2000,2000136,Lao People's Democratic Republic,"21,948",Asia
-2000,2000137,Malaysia,"1,463,598",Asia
-2000,2000138,Myanmar,"98,011",Asia
-2000,2000139,Philippines,"318,095",Asia
-2000,2000140,Singapore,"1,351,691",Asia
-2000,2000141,Thailand,"1,257,821",Asia
-2000,2000142,Timor-Leste,"10,602",Asia
-2000,2000143,Viet Nam,"56,754",Asia
-2000,2000145,Caribbean,"1,247,863",South America
-2000,2000146,Anguilla,"4,063",South America
-2000,2000147,Antigua and Barbuda,"23,071",South America
-2000,2000148,Aruba,"30,104",South America
-2000,2000149,Bahamas,"36,454",South America
-2000,2000150,Barbados,"28,424",South America
-2000,2000151,British Virgin Islands,"12,958",South America
-2000,2000152,"Bonaire, Sint Eustatius and Saba","46,105",South America
-2000,2000153,Cayman Islands,"19,176",South America
-2000,2000154,Cuba,"17,818",South America
-2000,2000155,Curaçao,,South America
-2000,2000156,Dominica,"3,723",South America
-2000,2000157,Dominican Republic,"355,611",South America
-2000,2000158,Grenada,"6,825",South America
-2000,2000159,Guadeloupe,"83,188",South America
-2000,2000160,Haiti,"17,222",South America
-2000,2000161,Jamaica,"24,952",South America
-2000,2000162,Martinique,"54,492",South America
-2000,2000163,Montserrat,"1,211",South America
-2000,2000164,Puerto Rico,"355,038",South America
-2000,2000165,Saint Kitts and Nevis,"5,871",South America
-2000,2000166,Saint Lucia,"9,871",South America
-2000,2000167,Saint Vincent and the Grenadines,"4,307",South America
-2000,2000168,Sint Maarten (Dutch part),..,South America
-2000,2000169,Trinidad and Tobago,"41,753",South America
-2000,2000170,Turks and Caicos Islands,"9,015",South America
-2000,2000171,United States Virgin Islands,"56,611",South America
-2000,2000173,Belize,"36,488",South America
-2000,2000174,Costa Rica,"310,946",South America
-2000,2000175,El Salvador,"31,713",South America
-2000,2000176,Guatemala,"48,119",South America
-2000,2000177,Honduras,"28,461",South America
-2000,2000178,Mexico,"538,051",South America
-2000,2000179,Nicaragua,"30,389",South America
-2000,2000180,Panama,"83,410",South America
-2000,2000182,Argentina,"1,540,219",South America
-2000,2000183,Bolivia (Plurinational State of),"92,658",South America
-2000,2000184,Brazil,"684,596",South America
-2000,2000185,Chile,"177,332",South America
-2000,2000186,Colombia,"109,609",South America
-2000,2000187,Ecuador,"151,523",South America
-2000,2000188,Falkland Islands (Malvinas),"1,067",South America
-2000,2000189,French Guiana,"76,649",South America
-2000,2000190,Guyana,"8,610",South America
-2000,2000191,Paraguay,"176,608",South America
-2000,2000192,Peru,"66,300",South America
-2000,2000193,Suriname,"27,506",South America
-2000,2000194,Uruguay,"88,874",South America
-2000,2000195,Venezuela (Bolivarian Republic of),"1,013,738",South America
-2000,2000198,Australia,"4,386,250",Oceania
-2000,2000199,New Zealand,"678,813",Oceania
-2000,2000200,Melanesia,"95,281",Oceania
-2000,2000201,Fiji,"12,719",Oceania
-2000,2000202,New Caledonia,"49,651",Oceania
-2000,2000203,Papua New Guinea,"26,304",Oceania
-2000,2000204,Solomon Islands,"3,981",Oceania
-2000,2000205,Vanuatu,"2,626",Oceania
-2000,2000206,Micronesia,"130,186",Oceania
-2000,2000207,Guam,"74,070",Oceania
-2000,2000208,Kiribati,"2,283",Oceania
-2000,2000209,Marshall Islands,"1,891",Oceania
-2000,2000210,Micronesia (Fed. States of),"3,116",Oceania
-2000,2000211,Nauru,"2,394",Oceania
-2000,2000212,Northern Mariana Islands,"40,122",Oceania
-2000,2000213,Palau,"6,310",Oceania
-2000,2000214,Polynesia,"70,701",Oceania
-2000,2000215,American Samoa,"24,912",Oceania
-2000,2000216,Cook Islands,"2,785",Oceania
-2000,2000217,French Polynesia,"30,329",Oceania
-2000,2000218,Niue,498,Oceania
-2000,2000219,Samoa,"5,998",Oceania
-2000,2000220,Tokelau,262,Oceania
-2000,2000221,Tonga,"3,684",Oceania
-2000,2000222,Tuvalu,218,Oceania
-2000,2000223,Wallis and Futuna Islands,"2,015",Oceania
-2000,2000227,Belarus,"1,123,586",Europe
-2000,2000228,Bulgaria,"43,360",Europe
-2000,2000229,Czechia,"220,789",Europe
-2000,2000230,Hungary,"296,957",Europe
-2000,2000231,Poland,"825,251",Europe
-2000,2000232,Republic of Moldova,"247,828",Europe
-2000,2000233,Romania,"134,254",Europe
-2000,2000234,Russian Federation,"11,900,297",Europe
-2000,2000235,Slovakia,"116,376",Europe
-2000,2000236,Ukraine,"5,527,087",Europe
-2000,2000238,Channel Islands,"64,301",Europe
-2000,2000239,Denmark,"371,026",Europe
-2000,2000240,Estonia,"249,512",Europe
-2000,2000241,Faroe Islands,"3,593",Europe
-2000,2000242,Finland,"136,203",Europe
-2000,2000243,Iceland,"15,892",Europe
-2000,2000244,Ireland,"350,552",Europe
-2000,2000245,Isle of Man,"39,002",Europe
-2000,2000246,Latvia,"430,178",Europe
-2000,2000247,Lithuania,"214,311",Europe
-2000,2000248,Norway,"292,440",Europe
-2000,2000249,Sweden,"1,003,798",Europe
-2000,2000250,United Kingdom,"4,730,165",Europe
-2000,2000252,Albania,"76,695",Europe
-2000,2000253,Andorra,"42,147",Europe
-2000,2000254,Bosnia and Herzegovina,"82,952",Europe
-2000,2000255,Croatia,"585,298",Europe
-2000,2000256,Gibraltar,"8,054",Europe
-2000,2000257,Greece,"1,111,665",Europe
-2000,2000258,Holy See,785,Europe
-2000,2000259,Italy,"2,121,688",Europe
-2000,2000260,Malta,"21,521",Europe
-2000,2000261,Montenegro,,Europe
-2000,2000262,North Macedonia,"125,665",Europe
-2000,2000263,Portugal,"651,472",Europe
-2000,2000264,San Marino,"4,045",Europe
-2000,2000265,Serbia,"977,873",Europe
-2000,2000266,Slovenia,"214,508",Europe
-2000,2000267,Spain,"1,657,285",Europe
-2000,2000269,Austria,"996,547",Europe
-2000,2000270,Belgium,"1,268,368",Europe
-2000,2000271,France,"6,278,718",Europe
-2000,2000272,Germany,"8,992,631",Europe
-2000,2000273,Liechtenstein,"15,483",Europe
-2000,2000274,Luxembourg,"139,750",Europe
-2000,2000275,Monaco,"21,787",Europe
-2000,2000276,Netherlands,"1,556,337",Europe
-2000,2000277,Switzerland,"1,570,756",Europe
-2000,2000279,Bermuda,"17,668",North America 
-2000,2000280,Canada,"5,511,914",North America 
-2000,2000281,Greenland,"6,601",North America 
-2000,2000282,Saint Pierre and Miquelon,"1,458",North America 
-2000,2000283,United States of America,"34,814,053",North America 
-2005,2005024,Burundi,"172,874",Africa
-2005,2005025,Comoros,"13,209",Africa
-2005,2005026,Djibouti,"92,091",Africa
-2005,2005027,Eritrea,"14,314",Africa
-2005,2005028,Ethiopia,"514,242",Africa
-2005,2005029,Kenya,"773,354",Africa
-2005,2005030,Madagascar,"26,058",Africa
-2005,2005031,Malawi,"221,661",Africa
-2005,2005032,Mauritius,"19,647",Africa
-2005,2005033,Mayotte,"63,176",Africa
-2005,2005034,Mozambique,"264,679",Africa
-2005,2005035,Réunion,"115,076",Africa
-2005,2005036,Rwanda,"423,187",Africa
-2005,2005037,Seychelles,"8,997",Africa
-2005,2005038,Somalia,"20,670",Africa
-2005,2005039,South Sudan,..,Africa
-2005,2005040,Uganda,"593,308",Africa
-2005,2005041,United Republic of Tanzania,"771,153",Africa
-2005,2005042,Zambia,"252,895",Africa
-2005,2005043,Zimbabwe,"402,226",Africa
-2005,2005045,Angola,"61,329",Africa
-2005,2005046,Cameroon,"265,503",Africa
-2005,2005047,Central African Republic,"94,449",Africa
-2005,2005048,Chad,"352,062",Africa
-2005,2005049,Congo,"318,724",Africa
-2005,2005050,Democratic Republic of the Congo,"622,869",Africa
-2005,2005051,Equatorial Guinea,"6,588",Africa
-2005,2005052,Gabon,"233,824",Africa
-2005,2005053,Sao Tome and Principe,"3,433",Africa
-2005,2005055,Botswana,"84,614",Africa
-2005,2005056,Eswatini,"33,392",Africa
-2005,2005057,Lesotho,"6,290",Africa
-2005,2005058,Namibia,"107,347",Africa
-2005,2005059,South Africa,"1,351,031",Africa
-2005,2005061,Benin,"221,889",Africa
-2005,2005062,Burkina Faso,"597,658",Africa
-2005,2005063,Cabo Verde,"12,700",Africa
-2005,2005064,Côte d'Ivoire,"2,265,090",Africa
-2005,2005065,Gambia,"181,905",Africa
-2005,2005066,Ghana,"304,436",Africa
-2005,2005067,Guinea,"229,611",Africa
-2005,2005068,Guinea-Bissau,"20,736",Africa
-2005,2005069,Liberia,"87,188",Africa
-2005,2005070,Mali,"256,797",Africa
-2005,2005071,Mauritania,"58,119",Africa
-2005,2005072,Niger,"124,461",Africa
-2005,2005073,Nigeria,"969,294",Africa
-2005,2005074,Saint Helena,163,Africa
-2005,2005075,Senegal,"238,298",Africa
-2005,2005076,Sierra Leone,"146,050",Africa
-2005,2005077,Togo,"203,799",Africa
-2005,2005080,Algeria,"197,422",Africa
-2005,2005081,Egypt,"285,006",Africa
-2005,2005082,Libya,"625,212",Africa
-2005,2005083,Morocco,"54,379",Africa
-2005,2005084,Sudan,"546,419",Africa
-2005,2005085,Tunisia,"35,040",Africa
-2005,2005086,Western Sahara,"3,891",Africa
-2005,2005088,Armenia,"469,119",Asia
-2005,2005089,Azerbaijan,"302,220",Asia
-2005,2005090,Bahrain,"404,018",Asia
-2005,2005091,Cyprus,"117,165",Asia
-2005,2005092,Georgia,"72,311",Asia
-2005,2005093,Iraq,"132,915",Asia
-2005,2005094,Israel,"1,889,503",Asia
-2005,2005095,Jordan,"2,325,414",Asia
-2005,2005096,Kuwait,"1,333,327",Asia
-2005,2005097,Lebanon,"756,784",Asia
-2005,2005098,Oman,"666,160",Asia
-2005,2005099,Qatar,"646,026",Asia
-2005,2005100,Saudi Arabia,"6,501,819",Asia
-2005,2005101,State of Palestine,"266,617",Asia
-2005,2005102,Syrian Arab Republic,"878,308",Asia
-2005,2005103,Turkey,"1,319,236",Asia
-2005,2005104,United Arab Emirates,"3,281,115",Asia
-2005,2005105,Yemen,"171,871",Asia
-2005,2005108,Kazakhstan,"3,103,027",Asia
-2005,2005109,Kyrgyzstan,"309,399",Asia
-2005,2005110,Tajikistan,"280,466",Asia
-2005,2005111,Turkmenistan,"213,053",Asia
-2005,2005112,Uzbekistan,"1,329,932",Asia
-2005,2005114,Afghanistan,"87,300",Asia
-2005,2005115,Bangladesh,"1,166,700",Asia
-2005,2005116,Bhutan,"40,279",Asia
-2005,2005117,India,"5,923,945",Asia
-2005,2005118,Iran (Islamic Republic of),"2,568,930",Asia
-2005,2005119,Maldives,"45,045",Asia
-2005,2005120,Nepal,"679,457",Asia
-2005,2005121,Pakistan,"3,171,132",Asia
-2005,2005122,Sri Lanka,"39,526",Asia
-2005,2005125,China,"678,947",Asia
-2005,2005126,"China, Hong Kong SAR","2,721,235",Asia
-2005,2005127,"China, Macao SAR","279,308",Asia
-2005,2005128,Dem. People's Republic of Korea,"40,097",Asia
-2005,2005129,Japan,"2,011,555",Asia
-2005,2005130,Mongolia,"11,477",Asia
-2005,2005131,Republic of Korea,"486,065",Asia
-2005,2005133,Brunei Darussalam,"98,441",Asia
-2005,2005134,Cambodia,"114,031",Asia
-2005,2005135,Indonesia,"289,568",Asia
-2005,2005136,Lao People's Democratic Republic,"20,371",Asia
-2005,2005137,Malaysia,"1,918,504",Asia
-2005,2005138,Myanmar,"83,025",Asia
-2005,2005139,Philippines,"257,468",Asia
-2005,2005140,Singapore,"1,710,594",Asia
-2005,2005141,Thailand,"2,163,447",Asia
-2005,2005142,Timor-Leste,"11,286",Asia
-2005,2005143,Viet Nam,"51,768",Asia
-2005,2005145,Caribbean,"1,311,361",North America 
-2005,2005146,Anguilla,"4,684",North America 
-2005,2005147,Antigua and Barbuda,"24,741",North America 
-2005,2005148,Aruba,"32,540",North America 
-2005,2005149,Bahamas,"45,595",North America 
-2005,2005150,Barbados,"30,624",North America 
-2005,2005151,British Virgin Islands,"15,016",North America 
-2005,2005152,"Bonaire, Sint Eustatius and Saba","49,105",North America 
-2005,2005153,Cayman Islands,"20,679",North America 
-2005,2005154,Cuba,"11,935",North America 
-2005,2005155,Curaçao,,North America 
-2005,2005156,Dominica,"4,744",North America 
-2005,2005157,Dominican Republic,"376,001",North America 
-2005,2005158,Grenada,"6,902",North America 
-2005,2005159,Guadeloupe,"89,065",North America 
-2005,2005160,Haiti,"16,360",North America 
-2005,2005161,Jamaica,"24,314",North America 
-2005,2005162,Martinique,"57,034",North America 
-2005,2005163,Montserrat,"1,244",North America 
-2005,2005164,Puerto Rico,"352,144",North America 
-2005,2005165,Saint Kitts and Nevis,"6,682",North America 
-2005,2005166,Saint Lucia,"9,842",North America 
-2005,2005167,Saint Vincent and the Grenadines,"4,436",North America 
-2005,2005168,Sint Maarten (Dutch part),"13,100",North America 
-2005,2005169,Trinidad and Tobago,"44,812",North America 
-2005,2005170,Turks and Caicos Islands,"13,115",North America 
-2005,2005171,United States Virgin Islands,"56,647",North America 
-2005,2005173,Belize,"41,424",North America 
-2005,2005174,Costa Rica,"358,175",North America 
-2005,2005175,El Salvador,"36,019",North America 
-2005,2005176,Guatemala,"57,252",North America 
-2005,2005177,Honduras,"27,875",North America 
-2005,2005178,Mexico,"712,487",North America 
-2005,2005179,Nicaragua,"34,918",North America 
-2005,2005180,Panama,"117,563",North America 
-2005,2005182,Argentina,"1,673,088",South America
-2005,2005183,Bolivia (Plurinational State of),"107,745",South America
-2005,2005184,Brazil,"638,582",South America
-2005,2005185,Chile,"276,360",South America
-2005,2005186,Colombia,"107,612",South America
-2005,2005187,Ecuador,"187,404",South America
-2005,2005188,Falkland Islands (Malvinas),"1,166",South America
-2005,2005189,French Guiana,"86,468",South America
-2005,2005190,Guyana,"10,868",South America
-2005,2005191,Paraguay,"168,243",South America
-2005,2005192,Peru,"77,877",South America
-2005,2005193,Suriname,"33,664",South America
-2005,2005194,Uruguay,"82,317",South America
-2005,2005195,Venezuela (Bolivarian Republic of),"1,076,474",South America
-2005,2005198,Australia,"4,878,030",Oceania
-2005,2005199,New Zealand,"839,952",Oceania
-2005,2005200,Melanesia,"104,017",Oceania
-2005,2005201,Fiji,"12,435",Oceania
-2005,2005202,New Caledonia,"55,405",Oceania
-2005,2005203,Papua New Guinea,"30,106",Oceania
-2005,2005204,Solomon Islands,"3,271",Oceania
-2005,2005205,Vanuatu,"2,800",Oceania
-2005,2005206,Micronesia,"128,390",Oceania
-2005,2005207,Guam,"74,743",Oceania
-2005,2005208,Kiribati,"2,487",Oceania
-2005,2005209,Marshall Islands,"2,417",Oceania
-2005,2005210,Micronesia (Fed. States of),"2,905",Oceania
-2005,2005211,Nauru,"2,253",Oceania
-2005,2005212,Northern Mariana Islands,"37,542",Oceania
-2005,2005213,Palau,"6,043",Oceania
-2005,2005214,Polynesia,"73,023",Oceania
-2005,2005215,American Samoa,"24,233",Oceania
-2005,2005216,Cook Islands,"3,277",Oceania
-2005,2005217,French Polynesia,"32,286",Oceania
-2005,2005218,Niue,522,Oceania
-2005,2005219,Samoa,"5,746",Oceania
-2005,2005220,Tokelau,258,Oceania
-2005,2005221,Tonga,"4,301",Oceania
-2005,2005222,Tuvalu,209,Oceania
-2005,2005223,Wallis and Futuna Islands,"2,191",Oceania
-2005,2005227,Belarus,"1,106,982",Europe
-2005,2005228,Bulgaria,"61,074",Europe
-2005,2005229,Czechia,"322,540",Europe
-2005,2005230,Hungary,"366,787",Europe
-2005,2005231,Poland,"722,509",Europe
-2005,2005232,Republic of Moldova,"171,122",Europe
-2005,2005233,Romania,"145,162",Europe
-2005,2005234,Russian Federation,"11,667,588",Europe
-2005,2005235,Slovakia,"130,491",Europe
-2005,2005236,Ukraine,"5,050,302",Europe
-2005,2005238,Channel Islands,"70,941",Europe
-2005,2005239,Denmark,"440,383",Europe
-2005,2005240,Estonia,"233,701",Europe
-2005,2005241,Faroe Islands,"4,583",Europe
-2005,2005242,Finland,"192,169",Europe
-2005,2005243,Iceland,"25,492",Europe
-2005,2005244,Ireland,"589,046",Europe
-2005,2005245,Isle of Man,"41,475",Europe
-2005,2005246,Latvia,"376,725",Europe
-2005,2005247,Lithuania,"201,209",Europe
-2005,2005248,Norway,"361,144",Europe
-2005,2005249,Sweden,"1,125,790",Europe
-2005,2005250,United Kingdom,"5,926,156",Europe
-2005,2005252,Albania,"64,739",Europe
-2005,2005253,Andorra,"50,298",Europe
-2005,2005254,Bosnia and Herzegovina,"47,272",Europe
-2005,2005255,Croatia,"579,273",Europe
-2005,2005256,Gibraltar,"9,211",Europe
-2005,2005257,Greece,"1,190,707",Europe
-2005,2005258,Holy See,798,Europe
-2005,2005259,Italy,"3,954,790",Europe
-2005,2005260,Malta,"24,560",Europe
-2005,2005261,Montenegro,,Europe
-2005,2005262,North Macedonia,"127,667",Europe
-2005,2005263,Portugal,"771,184",Europe
-2005,2005264,San Marino,"4,218",Europe
-2005,2005265,Serbia,"854,848",Europe
-2005,2005266,Slovenia,"217,218",Europe
-2005,2005267,Spain,"4,107,226",Europe
-2005,2005269,Austria,"1,136,270",Europe
-2005,2005270,Belgium,"1,248,733",Europe
-2005,2005271,France,"6,737,600",Europe
-2005,2005272,Germany,"9,402,447",Europe
-2005,2005273,Liechtenstein,"18,898",Europe
-2005,2005274,Luxembourg,"150,618",Europe
-2005,2005275,Monaco,"21,312",Europe
-2005,2005276,Netherlands,"1,736,127",Europe
-2005,2005277,Switzerland,"1,805,437",Europe
-2005,2005279,Bermuda,"18,276",North America 
-2005,2005280,Canada,"6,078,985",North America 
-2005,2005281,Greenland,"6,556",North America 
-2005,2005282,Saint Pierre and Miquelon,"1,147",North America 
-2005,2005283,United States of America,"39,258,293",North America 
-2010,2010024,Burundi,"235,259",Africa
-2010,2010025,Comoros,"12,618",Africa
-2010,2010026,Djibouti,"101,575",Africa
-2010,2010027,Eritrea,"15,676",Africa
-2010,2010028,Ethiopia,"568,748",Africa
-2010,2010029,Kenya,"954,925",Africa
-2010,2010030,Madagascar,"28,905",Africa
-2010,2010031,Malawi,"217,722",Africa
-2010,2010032,Mauritius,"24,836",Africa
-2010,2010033,Mayotte,"72,757",Africa
-2010,2010034,Mozambique,"306,471",Africa
-2010,2010035,Réunion,"123,029",Africa
-2010,2010036,Rwanda,"426,901",Africa
-2010,2010037,Seychelles,"11,420",Africa
-2010,2010038,Somalia,"48,106",Africa
-2010,2010039,South Sudan,"257,905",Africa
-2010,2010040,Uganda,"492,930",Africa
-2010,2010041,United Republic of Tanzania,"309,847",Africa
-2010,2010042,Zambia,"149,962",Africa
-2010,2010043,Zimbabwe,"398,307",Africa
-2010,2010045,Angola,"332,126",Africa
-2010,2010046,Cameroon,"291,474",Africa
-2010,2010047,Central African Republic,"93,466",Africa
-2010,2010048,Chad,"416,924",Africa
-2010,2010049,Congo,"425,173",Africa
-2010,2010050,Democratic Republic of the Congo,"588,950",Africa
-2010,2010051,Equatorial Guinea,"8,658",Africa
-2010,2010052,Gabon,"270,829",Africa
-2010,2010053,Sao Tome and Principe,"2,700",Africa
-2010,2010055,Botswana,"94,614",Africa
-2010,2010056,Eswatini,"32,637",Africa
-2010,2010057,Lesotho,"6,414",Africa
-2010,2010058,Namibia,"103,826",Africa
-2010,2010059,South Africa,"2,114,801",Africa
-2010,2010061,Benin,"309,124",Africa
-2010,2010062,Burkina Faso,"674,438",Africa
-2010,2010063,Cabo Verde,"14,373",Africa
-2010,2010064,Côte d'Ivoire,"2,366,537",Africa
-2010,2010065,Gambia,"185,763",Africa
-2010,2010066,Ghana,"337,017",Africa
-2010,2010067,Guinea,"177,998",Africa
-2010,2010068,Guinea-Bissau,"21,061",Africa
-2010,2010069,Liberia,"99,129",Africa
-2010,2010070,Mali,"339,375",Africa
-2010,2010071,Mauritania,"84,679",Africa
-2010,2010072,Niger,"126,464",Africa
-2010,2010073,Nigeria,"988,679",Africa
-2010,2010074,Saint Helena,248,Africa
-2010,2010075,Senegal,"256,092",Africa
-2010,2010076,Sierra Leone,"79,055",Africa
-2010,2010077,Togo,"255,413",Africa
-2010,2010080,Algeria,"216,964",Africa
-2010,2010081,Egypt,"310,017",Africa
-2010,2010082,Libya,"683,998",Africa
-2010,2010083,Morocco,"70,909",Africa
-2010,2010084,Sudan,"618,709",Africa
-2010,2010085,Tunisia,"43,172",Africa
-2010,2010086,Western Sahara,"4,493",Africa
-2010,2010088,Armenia,"211,147",Asia
-2010,2010089,Azerbaijan,"276,901",Asia
-2010,2010090,Bahrain,"657,856",Asia
-2010,2010091,Cyprus,"191,866",Asia
-2010,2010092,Georgia,"73,034",Asia
-2010,2010093,Iraq,"117,389",Asia
-2010,2010094,Israel,"1,950,615",Asia
-2010,2010095,Jordan,"2,722,983",Asia
-2010,2010096,Kuwait,"1,871,537",Asia
-2010,2010097,Lebanon,"820,655",Asia
-2010,2010098,Oman,"816,221",Asia
-2010,2010099,Qatar,"1,456,413",Asia
-2010,2010100,Saudi Arabia,"8,429,956",Asia
-2010,2010101,State of Palestine,"258,032",Asia
-2010,2010102,Syrian Arab Republic,"1,787,561",Asia
-2010,2010103,Turkey,"1,367,034",Asia
-2010,2010104,United Arab Emirates,"7,316,697",Asia
-2010,2010105,Yemen,"288,394",Asia
-2010,2010108,Kazakhstan,"3,334,937",Asia
-2010,2010109,Kyrgyzstan,"232,065",Asia
-2010,2010110,Tajikistan,"279,808",Asia
-2010,2010111,Turkmenistan,"197,979",Asia
-2010,2010112,Uzbekistan,"1,220,149",Asia
-2010,2010114,Afghanistan,"102,246",Asia
-2010,2010115,Bangladesh,"1,345,546",Asia
-2010,2010116,Bhutan,"48,420",Asia
-2010,2010117,India,"5,439,758",Asia
-2010,2010118,Iran (Islamic Republic of),"2,761,561",Asia
-2010,2010119,Maldives,"54,659",Asia
-2010,2010120,Nepal,"578,657",Asia
-2010,2010121,Pakistan,"3,941,586",Asia
-2010,2010122,Sri Lanka,"38,959",Asia
-2010,2010125,China,"849,861",Asia
-2010,2010126,"China, Hong Kong SAR","2,779,950",Asia
-2010,2010127,"China, Macao SAR","318,506",Asia
-2010,2010128,Dem. People's Republic of Korea,"44,010",Asia
-2010,2010129,Japan,"2,134,151",Asia
-2010,2010130,Mongolia,"16,062",Asia
-2010,2010131,Republic of Korea,"919,987",Asia
-2010,2010133,Brunei Darussalam,"100,587",Asia
-2010,2010134,Cambodia,"81,977",Asia
-2010,2010135,Indonesia,"305,416",Asia
-2010,2010136,Lao People's Democratic Republic,"32,955",Asia
-2010,2010137,Malaysia,"2,417,395",Asia
-2010,2010138,Myanmar,"76,414",Asia
-2010,2010139,Philippines,"208,599",Asia
-2010,2010140,Singapore,"2,164,794",Asia
-2010,2010141,Thailand,"3,224,131",Asia
-2010,2010142,Timor-Leste,"11,540",Asia
-2010,2010143,Viet Nam,"61,756",Asia
-2010,2010145,Caribbean,"1,326,879",North America 
-2010,2010146,Anguilla,"5,103",North America 
-2010,2010147,Antigua and Barbuda,"26,412",North America 
-2010,2010148,Aruba,"34,327",North America 
-2010,2010149,Bahamas,"54,736",North America 
-2010,2010150,Barbados,"32,825",North America 
-2010,2010151,British Virgin Islands,"17,074",North America 
-2010,2010152,"Bonaire, Sint Eustatius and Saba","11,445",North America 
-2010,2010153,Cayman Islands,"24,057",North America 
-2010,2010154,Cuba,"6,640",North America 
-2010,2010155,Curaçao,"34,627",North America 
-2010,2010156,Dominica,"8,110",North America 
-2010,2010157,Dominican Republic,"393,720",North America 
-2010,2010158,Grenada,"6,980",North America 
-2010,2010159,Guadeloupe,"94,942",North America 
-2010,2010160,Haiti,"17,178",North America 
-2010,2010161,Jamaica,"23,677",North America 
-2010,2010162,Martinique,"59,575",North America 
-2010,2010163,Montserrat,"1,291",North America 
-2010,2010164,Puerto Rico,"304,969",North America 
-2010,2010165,Saint Kitts and Nevis,"7,245",North America 
-2010,2010166,Saint Lucia,"9,051",North America 
-2010,2010167,Saint Vincent and the Grenadines,"4,569",North America 
-2010,2010168,Sint Maarten (Dutch part),"26,200",North America 
-2010,2010169,Trinidad and Tobago,"48,226",North America 
-2010,2010170,Turks and Caicos Islands,"17,216",North America 
-2010,2010171,United States Virgin Islands,"56,684",North America 
-2010,2010173,Belize,"46,360",North America 
-2010,2010174,Costa Rica,"405,404",North America 
-2010,2010175,El Salvador,"40,324",North America 
-2010,2010176,Guatemala,"66,384",North America 
-2010,2010177,Honduras,"27,288",North America 
-2010,2010178,Mexico,"969,538",North America 
-2010,2010179,Nicaragua,"37,333",North America 
-2010,2010180,Panama,"157,309",North America 
-2010,2010182,Argentina,"1,805,957",South America
-2010,2010183,Bolivia (Plurinational State of),"122,846",South America
-2010,2010184,Brazil,"592,568",South America
-2010,2010185,Chile,"375,388",South America
-2010,2010186,Colombia,"124,271",South America
-2010,2010187,Ecuador,"325,366",South America
-2010,2010188,Falkland Islands (Malvinas),"1,436",South America
-2010,2010189,French Guiana,"96,288",South America
-2010,2010190,Guyana,"13,126",South America
-2010,2010191,Paraguay,"160,299",South America
-2010,2010192,Peru,"104,706",South America
-2010,2010193,Suriname,"39,713",South America
-2010,2010194,Uruguay,"76,303",South America
-2010,2010195,Venezuela (Bolivarian Republic of),"1,347,347",South America
-2010,2010198,Australia,"5,882,980",Oceania
-2010,2010199,New Zealand,"947,443",Oceania
-2010,2010200,Melanesia,"110,685",Oceania
-2010,2010201,Fiji,"13,351",Oceania
-2010,2010202,New Caledonia,"61,158",Oceania
-2010,2010203,Papua New Guinea,"30,425",Oceania
-2010,2010204,Solomon Islands,"2,760",Oceania
-2010,2010205,Vanuatu,"2,991",Oceania
-2010,2010206,Micronesia,"115,020",Oceania
-2010,2010207,Guam,"75,416",Oceania
-2010,2010208,Kiribati,"2,868",Oceania
-2010,2010209,Marshall Islands,"3,089",Oceania
-2010,2010210,Micronesia (Fed. States of),"2,806",Oceania
-2010,2010211,Nauru,"1,183",Oceania
-2010,2010212,Northern Mariana Islands,"24,168",Oceania
-2010,2010213,Palau,"5,490",Oceania
-2010,2010214,Polynesia,"71,552",Oceania
-2010,2010215,American Samoa,"23,555",Oceania
-2010,2010216,Cook Islands,"3,769",Oceania
-2010,2010217,French Polynesia,"31,640",Oceania
-2010,2010218,Niue,589,Oceania
-2010,2010219,Samoa,"5,122",Oceania
-2010,2010220,Tokelau,429,Oceania
-2010,2010221,Tonga,"4,604",Oceania
-2010,2010222,Tuvalu,220,Oceania
-2010,2010223,Wallis and Futuna Islands,"1,624",Oceania
-2010,2010227,Belarus,"1,090,378",Europe
-2010,2010228,Bulgaria,"76,287",Europe
-2010,2010229,Czechia,"398,493",Europe
-2010,2010230,Hungary,"436,616",Europe
-2010,2010231,Poland,"642,417",Europe
-2010,2010232,Republic of Moldova,"129,488",Europe
-2010,2010233,Romania,"177,211",Europe
-2010,2010234,Russian Federation,"11,194,710",Europe
-2010,2010235,Slovakia,"146,319",Europe
-2010,2010236,Ukraine,"4,818,767",Europe
-2010,2010238,Channel Islands,"77,581",Europe
-2010,2010239,Denmark,"500,772",Europe
-2010,2010240,Estonia,"217,890",Europe
-2010,2010241,Faroe Islands,"5,096",Europe
-2010,2010242,Finland,"228,481",Europe
-2010,2010243,Iceland,"35,091",Europe
-2010,2010244,Ireland,"730,542",Europe
-2010,2010245,Isle of Man,"43,447",Europe
-2010,2010246,Latvia,"313,786",Europe
-2010,2010247,Lithuania,"160,772",Europe
-2010,2010248,Norway,"526,799",Europe
-2010,2010249,Sweden,"1,384,929",Europe
-2010,2010250,United Kingdom,"7,119,664",Europe
-2010,2010252,Albania,"52,784",Europe
-2010,2010253,Andorra,"52,053",Europe
-2010,2010254,Bosnia and Herzegovina,"38,792",Europe
-2010,2010255,Croatia,"573,248",Europe
-2010,2010256,Gibraltar,"10,369",Europe
-2010,2010257,Greece,"1,321,149",Europe
-2010,2010258,Holy See,794,Europe
-2010,2010259,Italy,"5,787,893",Europe
-2010,2010260,Malta,"33,008",Europe
-2010,2010261,Montenegro,"78,512",Europe
-2010,2010262,North Macedonia,"129,701",Europe
-2010,2010263,Portugal,"762,825",Europe
-2010,2010264,San Marino,"4,880",Europe
-2010,2010265,Serbia,"826,275",Europe
-2010,2010266,Slovenia,"253,786",Europe
-2010,2010267,Spain,"6,280,065",Europe
-2010,2010269,Austria,"1,275,992",Europe
-2010,2010270,Belgium,"1,503,806",Europe
-2010,2010271,France,"7,309,986",Europe
-2010,2010272,Germany,"9,812,263",Europe
-2010,2010273,Liechtenstein,"22,342",Europe
-2010,2010274,Luxembourg,"163,142",Europe
-2010,2010275,Monaco,"21,132",Europe
-2010,2010276,Netherlands,"1,832,510",Europe
-2010,2010277,Switzerland,"2,075,182",Europe
-2010,2010279,Bermuda,"18,884",North America 
-2010,2010280,Canada,"6,761,226",North America 
-2010,2010281,Greenland,"6,091",North America 
-2010,2010282,Saint Pierre and Miquelon,"1,017",North America 
-2010,2010283,United States of America,"44,183,643",North America 
-2015,2015024,Burundi,"289,810",Africa
-2015,2015025,Comoros,"12,555",Africa
-2015,2015026,Djibouti,"112,351",Africa
-2015,2015027,Eritrea,"15,941",Africa
-2015,2015028,Ethiopia,"1,161,642",Africa
-2015,2015029,Kenya,"1,126,886",Africa
-2015,2015030,Madagascar,"32,075",Africa
-2015,2015031,Malawi,"232,803",Africa
-2015,2015032,Mauritius,"28,585",Africa
-2015,2015033,Mayotte,"73,992",Africa
-2015,2015034,Mozambique,"321,794",Africa
-2015,2015035,Réunion,"127,209",Africa
-2015,2015036,Rwanda,"514,647",Africa
-2015,2015037,Seychelles,"12,791",Africa
-2015,2015038,Somalia,"40,990",Africa
-2015,2015039,South Sudan,"844,122",Africa
-2015,2015040,Uganda,"851,175",Africa
-2015,2015041,United Republic of Tanzania,"384,567",Africa
-2015,2015042,Zambia,"132,107",Africa
-2015,2015043,Zimbabwe,"400,482",Africa
-2015,2015045,Angola,"632,178",Africa
-2015,2015046,Cameroon,"508,346",Africa
-2015,2015047,Central African Republic,"81,598",Africa
-2015,2015048,Chad,"466,968",Africa
-2015,2015049,Congo,"390,142",Africa
-2015,2015050,Democratic Republic of the Congo,"824,492",Africa
-2015,2015051,Equatorial Guinea,"209,611",Africa
-2015,2015052,Gabon,"378,686",Africa
-2015,2015053,Sao Tome and Principe,"2,394",Africa
-2015,2015055,Botswana,"103,268",Africa
-2015,2015056,Eswatini,"32,352",Africa
-2015,2015057,Lesotho,"6,572",Africa
-2015,2015058,Namibia,"101,618",Africa
-2015,2015059,South Africa,"3,816,695",Africa
-2015,2015061,Benin,"366,284",Africa
-2015,2015062,Burkina Faso,"704,676",Africa
-2015,2015063,Cabo Verde,"14,924",Africa
-2015,2015064,Côte d'Ivoire,"2,467,984",Africa
-2015,2015065,Gambia,"192,540",Africa
-2015,2015066,Ghana,"414,744",Africa
-2015,2015067,Guinea,"126,386",Africa
-2015,2015068,Guinea-Bissau,"22,333",Africa
-2015,2015069,Liberia,"113,779",Africa
-2015,2015070,Mali,"420,504",Africa
-2015,2015071,Mauritania,"166,552",Africa
-2015,2015072,Niger,"252,998",Africa
-2015,2015073,Nigeria,"1,199,115",Africa
-2015,2015074,Saint Helena,377,Africa
-2015,2015075,Senegal,"266,496",Africa
-2015,2015076,Sierra Leone,"58,813",Africa
-2015,2015077,Togo,"277,384",Africa
-2015,2015080,Algeria,"239,473",Africa
-2015,2015081,Egypt,"353,641",Africa
-2015,2015082,Libya,"771,146",Africa
-2015,2015083,Morocco,"92,424",Africa
-2015,2015084,Sudan,"620,523",Africa
-2015,2015085,Tunisia,"56,532",Africa
-2015,2015086,Western Sahara,"5,179",Africa
-2015,2015088,Armenia,"191,199",Asia
-2015,2015089,Azerbaijan,"264,241",Asia
-2015,2015090,Bahrain,"704,137",Asia
-2015,2015091,Cyprus,"192,020",Asia
-2015,2015092,Georgia,"76,685",Asia
-2015,2015093,Iraq,"359,381",Asia
-2015,2015094,Israel,"2,011,727",Asia
-2015,2015095,Jordan,"3,112,026",Asia
-2015,2015096,Kuwait,"2,866,136",Asia
-2015,2015097,Lebanon,"1,973,204",Asia
-2015,2015098,Oman,"1,856,226",Asia
-2015,2015099,Qatar,"1,687,640",Asia
-2015,2015100,Saudi Arabia,"10,771,366",Asia
-2015,2015101,State of Palestine,"255,507",Asia
-2015,2015102,Syrian Arab Republic,"871,174",Asia
-2015,2015103,Turkey,"4,346,197",Asia
-2015,2015104,United Arab Emirates,"7,995,126",Asia
-2015,2015105,Yemen,"379,882",Asia
-2015,2015108,Kazakhstan,"3,546,060",Asia
-2015,2015109,Kyrgyzstan,"204,382",Asia
-2015,2015110,Tajikistan,"275,101",Asia
-2015,2015111,Turkmenistan,"196,376",Asia
-2015,2015112,Uzbekistan,"1,170,873",Asia
-2015,2015114,Afghanistan,"489,749",Asia
-2015,2015115,Bangladesh,"1,422,805",Asia
-2015,2015116,Bhutan,"51,106",Asia
-2015,2015117,India,"5,240,960",Asia
-2015,2015118,Iran ,"2,726,420",Asia
-2015,2015119,Maldives,"64,273",Asia
-2015,2015120,Nepal,"509,471",Asia
-2015,2015121,Pakistan,"3,506,520",Asia
-2015,2015122,Sri Lanka,"39,706",Asia
-2015,2015125,China,"978,046",Asia
-2015,2015126,"China, Hong Kong SAR","2,838,665",Asia
-2015,2015127,"China, Macao SAR","376,066",Asia
-2015,2015128,Dem. People's Republic of Korea,"48,458",Asia
-2015,2015129,Japan,"2,232,189",Asia
-2015,2015130,Mongolia,"19,886",Asia
-2015,2015131,Republic of Korea,"1,143,087",Asia
-2015,2015133,Brunei Darussalam,"102,733",Asia
-2015,2015134,Cambodia,"73,963",Asia
-2015,2015135,Indonesia,"338,124",Asia
-2015,2015136,Lao People's Democratic Republic,"45,538",Asia
-2015,2015137,Malaysia,"3,280,681",Asia
-2015,2015138,Myanmar,"73,309",Asia
-2015,2015139,Philippines,"211,862",Asia
-2015,2015140,Singapore,"2,543,638",Asia
-2015,2015141,Thailand,"3,486,526",Asia
-2015,2015142,Timor-Leste,"8,520",Asia
-2015,2015143,Viet Nam,"72,793",Asia
-2015,2015145,Caribbean,"1,489,916",North America 
-2015,2015146,Anguilla,"5,470",North America 
-2015,2015147,Antigua and Barbuda,"28,083",North America 
-2015,2015148,Aruba,"36,114",North America 
-2015,2015149,Bahamas,"59,306",North America 
-2015,2015150,Barbados,"34,475",North America 
-2015,2015151,British Virgin Islands,"19,132",North America 
-2015,2015152,"Bonaire, Sint Eustatius and Saba","13,002",North America 
-2015,2015153,Cayman Islands,"26,177",North America 
-2015,2015154,Cuba,"5,312",North America 
-2015,2015155,Curaçao,"37,611",North America 
-2015,2015156,Dominica,"8,093",North America 
-2015,2015157,Dominican Republic,"549,289",North America 
-2015,2015158,Grenada,"7,057",North America 
-2015,2015159,Guadeloupe,"98,507",North America 
-2015,2015160,Haiti,"18,036",North America 
-2015,2015161,Jamaica,"23,167",North America 
-2015,2015162,Martinique,"61,731",North America 
-2015,2015163,Montserrat,"1,351",North America 
-2015,2015164,Puerto Rico,"280,494",North America 
-2015,2015165,Saint Kitts and Nevis,"7,443",North America 
-2015,2015166,Saint Lucia,"8,673",North America 
-2015,2015167,Saint Vincent and the Grenadines,"4,637",North America 
-2015,2015168,Sint Maarten (Dutch part),"27,295",North America 
-2015,2015169,Trinidad and Tobago,"50,021",North America 
-2015,2015170,Turks and Caicos Islands,"22,719",North America 
-2015,2015171,United States Virgin Islands,"56,721",North America 
-2015,2015173,Belize,"54,674",North America 
-2015,2015174,Costa Rica,"411,697",North America 
-2015,2015175,El Salvador,"42,045",North America 
-2015,2015176,Guatemala,"78,352",North America 
-2015,2015177,Honduras,"38,317",North America 
-2015,2015178,Mexico,"1,028,803",North America 
-2015,2015179,Nicaragua,"40,262",North America 
-2015,2015180,Panama,"184,710",North America 
-2015,2015181,South America,"6,072,903",North America 
-2015,2015182,Argentina,"2,086,302",South America
-2015,2015183,Bolivia ,"142,989",South America
-2015,2015184,Brazil,"716,568",South America
-2015,2015185,Chile,"639,724",South America
-2015,2015186,Colombia,"139,134",South America
-2015,2015187,Ecuador,"387,513",South America
-2015,2015188,Falkland Islands (Malvinas),"1,571",South America
-2015,2015189,French Guiana,"106,108",South America
-2015,2015190,Guyana,"15,384",South America
-2015,2015191,Paraguay,"156,462",South America
-2015,2015192,Peru,"154,774",South America
-2015,2015193,Suriname,"43,127",South America
-2015,2015194,Uruguay,"78,799",South America
-2015,2015195,Venezuela (Bolivarian Republic of),"1,404,448",South America
-2015,2015198,Australia,"6,729,730",Oceania
-2015,2015199,New Zealand,"1,039,736",Oceania
-2015,2015200,Melanesia,"119,344",Oceania
-2015,2015201,Fiji,"13,751",Oceania
-2015,2015202,New Caledonia,"68,881",Oceania
-2015,2015203,Papua New Guinea,"30,940",Oceania
-2015,2015204,Solomon Islands,"2,585",Oceania
-2015,2015205,Vanuatu,"3,187",Oceania
-2015,2015206,Micronesia,"113,523",Oceania
-2015,2015207,Guam,"76,089",Oceania
-2015,2015208,Kiribati,"2,919",Oceania
-2015,2015209,Marshall Islands,"3,284",Oceania
-2015,2015210,Micronesia (Fed. States of),"2,756",Oceania
-2015,2015211,Nauru,"1,890",Oceania
-2015,2015212,Northern Mariana Islands,"21,648",Oceania
-2015,2015213,Palau,"4,937",Oceania
-2015,2015214,Polynesia,"67,611",Oceania
-2015,2015215,American Samoa,"23,513",Oceania
-2015,2015216,Cook Islands,"3,477",Oceania
-2015,2015217,French Polynesia,"30,058",Oceania
-2015,2015218,Niue,588,Oceania
-2015,2015219,Samoa,"4,252",Oceania
-2015,2015220,Tokelau,487,Oceania
-2015,2015221,Tonga,"3,954",Oceania
-2015,2015222,Tuvalu,230,Oceania
-2015,2015223,Wallis and Futuna Islands,"1,052",Oceania
-2015,2015227,Belarus,"1,082,905",Europe
-2015,2015228,Bulgaria,"123,803",Europe
-2015,2015229,Czechia,"416,454",Europe
-2015,2015230,Hungary,"475,508",Europe
-2015,2015231,Poland,"619,403",Europe
-2015,2015232,Republic of Moldova,"106,374",Europe
-2015,2015233,Romania,"281,048",Europe
-2015,2015234,Russian Federation,"11,643,276",Europe
-2015,2015235,Slovakia,"177,624",Europe
-2015,2015236,Ukraine,"4,915,142",Europe
-2015,2015238,Channel Islands,"82,307",Europe
-2015,2015239,Denmark,"595,876",Europe
-2015,2015240,Estonia,"194,664",Europe
-2015,2015241,Faroe Islands,"5,485",Europe
-2015,2015242,Finland,"314,856",Europe
-2015,2015243,Iceland,"39,072",Europe
-2015,2015244,Ireland,"759,256",Europe
-2015,2015245,Isle of Man,"42,238",Europe
-2015,2015246,Latvia,"265,418",Europe
-2015,2015247,Lithuania,"136,021",Europe
-2015,2015248,Norway,"746,375",Europe
-2015,2015249,Sweden,"1,676,264",Europe
-2015,2015250,United Kingdom,"8,411,569",Europe
-2015,2015252,Albania,"52,031",Europe
-2015,2015253,Andorra,"42,264",Europe
-2015,2015254,Bosnia and Herzegovina,"38,574",Europe
-2015,2015255,Croatia,"561,093",Europe
-2015,2015256,Gibraltar,"11,065",Europe
-2015,2015257,Greece,"1,242,924",Europe
-2015,2015258,Holy See,803,Europe
-2015,2015259,Italy,"5,805,328",Europe
-2015,2015260,Malta,"52,642",Europe
-2015,2015261,Montenegro,"71,719",Europe
-2015,2015262,North Macedonia,"130,730",Europe
-2015,2015263,Portugal,"864,814",Europe
-2015,2015264,San Marino,"5,195",Europe
-2015,2015265,Serbia,"807,441",Europe
-2015,2015266,Slovenia,"237,616",Europe
-2015,2015267,Spain,"5,891,208",Europe
-2015,2015269,Austria,"1,492,374",Europe
-2015,2015270,Belgium,"1,783,488",Europe
-2015,2015271,France,"7,874,172",Europe
-2015,2015272,Germany,"10,220,418",Europe
-2015,2015273,Liechtenstein,"23,799",Europe
-2015,2015274,Luxembourg,"248,888",Europe
-2015,2015275,Monaco,"25,983",Europe
-2015,2015276,Netherlands,"1,996,318",Europe
-2015,2015277,Switzerland,"2,416,394",Europe
-2015,2015279,Bermuda,"19,126",North America 
-2015,2015280,Canada,"7,428,657",North America 
-2015,2015281,Greenland,"5,797",North America 
-2015,2015282,Saint Pierre and Miquelon,986,North America 
-2015,2015283,United States of America,"48,178,877",North America 
-2019,2019024,Burundi,"321,018",Africa
-2019,2019025,Comoros,"12,504",Africa
-2019,2019026,Djibouti,"115,341",Africa
-2019,2019027,Eritrea,"16,101",Africa
-2019,2019028,Ethiopia,"1,253,083",Africa
-2019,2019029,Kenya,"1,044,854",Africa
-2019,2019030,Madagascar,"34,934",Africa
-2019,2019031,Malawi,"247,652",Africa
-2019,2019032,Mauritius,"28,849",Africa
-2019,2019033,Mayotte,"74,643",Africa
-2019,2019034,Mozambique,"334,665",Africa
-2019,2019035,Réunion,"129,153",Africa
-2019,2019036,Rwanda,"539,932",Africa
-2019,2019037,Seychelles,"12,926",Africa
-2019,2019038,Somalia,"52,131",Africa
-2019,2019039,South Sudan,"865,552",Africa
-2019,2019040,Uganda,"1,734,166",Africa
-2019,2019041, Tanzania,"509,166",Africa
-2019,2019042,Zambia,"170,249",Africa
-2019,2019043,Zimbabwe,"411,257",Africa
-2019,2019045,Angola,"669,479",Africa
-2019,2019046,Cameroon,"505,692",Africa
-2019,2019047,Central African Republic,"90,649",Africa
-2019,2019048,Chad,"512,230",Africa
-2019,2019049,Congo,"402,142",Africa
-2019,2019050,Democratic Republic of the Congo,"963,833",Africa
-2019,2019051,Equatorial Guinea,"227,617",Africa
-2019,2019052,Gabon,"411,463",Africa
-2019,2019053,Sao Tome and Principe,"2,174",Africa
-2019,2019055,Botswana,"110,596",Africa
-2019,2019056,Eswatini,"32,310",Africa
-2019,2019057,Lesotho,"6,928",Africa
-2019,2019058,Namibia,"107,561",Africa
-2019,2019059,South Africa,"4,224,256",Africa
-2019,2019061,Benin,"390,112",Africa
-2019,2019062,Burkina Faso,"718,338",Africa
-2019,2019063,Cabo Verde,"15,664",Africa
-2019,2019064,Côte d'Ivoire,"2,549,141",Africa
-2019,2019065,Gambia,"215,406",Africa
-2019,2019066,Ghana,"466,780",Africa
-2019,2019067,Guinea,"120,642",Africa
-2019,2019068,Guinea-Bissau,"26,916",Africa
-2019,2019069,Liberia,"94,448",Africa
-2019,2019070,Mali,"468,230",Africa
-2019,2019071,Mauritania,"172,987",Africa
-2019,2019072,Niger,"294,161",Africa
-2019,2019073,Nigeria,"1,256,408",Africa
-2019,2019074,Saint Helena,433,Africa
-2019,2019075,Senegal,"275,239",Africa
-2019,2019076,Sierra Leone,"54,332",Africa
-2019,2019077,Togo,"279,142",Africa
-2019,2019080,Algeria,"249,075",Africa
-2019,2019081,Egypt,"504,053",Africa
-2019,2019082,Libya,"818,216",Africa
-2019,2019083,Morocco,"98,574",Africa
-2019,2019084,Sudan,"1,223,092",Africa
-2019,2019085,Tunisia,"57,455",Africa
-2019,2019086,Western Sahara,"5,384",Africa
-2019,2019088,Armenia,"190,159",Asia
-2019,2019089,Azerbaijan,"253,887",Asia
-2019,2019090,Bahrain,"741,161",Asia
-2019,2019091,Cyprus,"191,922",Asia
-2019,2019092,Georgia,"79,035",Asia
-2019,2019093,Iraq,"368,062",Asia
-2019,2019094,Israel,"1,956,346",Asia
-2019,2019095,Jordan,"3,346,703",Asia
-2019,2019096,Kuwait,"3,034,845",Asia
-2019,2019097,Lebanon,"1,863,873",Asia
-2019,2019098,Oman,"2,286,226",Asia
-2019,2019099,Qatar,"2,229,688",Asia
-2019,2019100,Saudi Arabia,"13,122,338",Asia
-2019,2019101,State of Palestine,"253,735",Asia
-2019,2019102,Syrian Arab Republic,"867,848",Asia
-2019,2019103,Turkey,"5,876,829",Asia
-2019,2019104,United Arab Emirates,"8,587,256",Asia
-2019,2019105,Yemen,"385,628",Asia
-2019,2019108,Kazakhstan,"3,705,556",Asia
-2019,2019109,Kyrgyzstan,"200,260",Asia
-2019,2019110,Tajikistan,"274,071",Asia
-2019,2019111,Turkmenistan,"195,127",Asia
-2019,2019112,Uzbekistan,"1,168,384",Asia
-2019,2019114,Afghanistan,"149,762",Asia
-2019,2019115,Bangladesh,"2,185,613",Asia
-2019,2019116,Bhutan,"53,254",Asia
-2019,2019117,India,"5,154,737",Asia
-2019,2019118,Iran ,"2,682,214",Asia
-2019,2019119,Maldives,"69,249",Asia
-2019,2019120,Nepal,"490,802",Asia
-2019,2019121,Pakistan,"3,257,978",Asia
-2019,2019122,Sri Lanka,"40,018",Asia
-2019,2019125,China,"1,030,871",Asia
-2019,2019126,"China, Hong Kong SAR","2,942,254",Asia
-2019,2019127,"China, Macao SAR","399,572",Asia
-2019,2019128,Dem. People's Republic of Korea,"49,393",Asia
-2019,2019129,Japan,"2,498,891",Asia
-2019,2019130,Mongolia,"21,128",Asia
-2019,2019131,Republic of Korea,"1,163,655",Asia
-2019,2019133,Brunei Darussalam,"110,641",Asia
-2019,2019134,Cambodia,"78,649",Asia
-2019,2019135,Indonesia,"353,135",Asia
-2019,2019136,Lao People's Democratic Republic,"48,275",Asia
-2019,2019137,Malaysia,"3,430,380",Asia
-2019,2019138,Myanmar,"75,998",Asia
-2019,2019139,Philippines,"218,530",Asia
-2019,2019140,Singapore,"2,155,653",Asia
-2019,2019141,Thailand,"3,635,085",Asia
-2019,2019142,Timor-Leste,"8,417",Asia
-2019,2019143,Viet Nam,"76,104",Asia
-2019,2019146,Anguilla,"5,679",North America 
-2019,2019147,Antigua and Barbuda,"29,207",North America 
-2019,2019148,Aruba,"36,532",North America 
-2019,2019149,Bahamas,"62,962",North America 
-2019,2019150,Barbados,"34,807",North America 
-2019,2019151,British Virgin Islands,"20,778",North America 
-2019,2019152,"Bonaire, Sint Eustatius and Saba","15,484",North America 
-2019,2019153,Cayman Islands,"28,985",North America 
-2019,2019154,Cuba,"4,886",North America 
-2019,2019155,Curaçao,"40,883",North America 
-2019,2019156,Dominica,"8,264",North America 
-2019,2019157,Dominican Republic,"567,648",North America 
-2019,2019158,Grenada,"7,124",North America 
-2019,2019159,Guadeloupe,"100,030",North America 
-2019,2019160,Haiti,"18,756",North America 
-2019,2019161,Jamaica,"23,468",North America 
-2019,2019162,Martinique,"61,647",North America 
-2019,2019163,Montserrat,"1,375",North America 
-2019,2019164,Puerto Rico,"266,828",North America 
-2019,2019165,Saint Kitts and Nevis,"7,587",North America 
-2019,2019166,Saint Lucia,"8,383",North America 
-2019,2019167,Saint Vincent and the Grenadines,"4,692",North America 
-2019,2019168,Sint Maarten (Dutch part),"28,260",North America 
-2019,2019169,Trinidad and Tobago,"59,249",North America 
-2019,2019170,Turks and Caicos Islands,"24,534",North America 
-2019,2019171,United States Virgin Islands,"56,745",North America 
-2019,2019173,Belize,"59,998",North America 
-2019,2019174,Costa Rica,"417,768",North America 
-2019,2019175,El Salvador,"42,617",North America 
-2019,2019176,Guatemala,"80,421",North America 
-2019,2019177,Honduras,"38,933",North America 
-2019,2019178,Mexico,"1,060,707",North America 
-2019,2019179,Nicaragua,"42,172",North America 
-2019,2019180,Panama,"185,072",North America 
-2019,2019182,Argentina,"2,212,879",South America
-2019,2019183,Bolivia ,"156,114",South America
-2019,2019184,Brazil,"807,006",South America
-2019,2019185,Chile,"939,992",South America
-2019,2019186,Colombia,"1,142,319",South America
-2019,2019187,Ecuador,"381,507",South America
-2019,2019188,Falkland Islands (Malvinas),"1,902",South America
-2019,2019189,French Guiana,"117,372",South America
-2019,2019190,Guyana,"15,699",South America
-2019,2019191,Paraguay,"160,519",South America
-2019,2019192,Peru,"782,169",South America
-2019,2019193,Suriname,"46,157",South America
-2019,2019194,Uruguay,"81,482",South America
-2019,2019195,Venezuela ,"1,375,690",South America
-2019,2019198,Australia,"7,549,270",Oceania
-2019,2019199,New Zealand,"1,068,739",Oceania
-2019,2019200,Melanesia,"123,564",Oceania
-2019,2019201,Fiji,"14,038",Oceania
-2019,2019202,New Caledonia,"72,537",Oceania
-2019,2019203,Papua New Guinea,"31,212",Oceania
-2019,2019204,Solomon Islands,"2,532",Oceania
-2019,2019205,Vanuatu,"3,245",Oceania
-2019,2019206,Micronesia,"117,978",Oceania
-2019,2019207,Guam,"79,846",Oceania
-2019,2019208,Kiribati,"3,022",Oceania
-2019,2019209,Marshall Islands,"3,296",Oceania
-2019,2019210,Micronesia (Fed. States of),"2,819",Oceania
-2019,2019211,Nauru,"2,114",Oceania
-2019,2019212,Northern Mariana Islands,"21,815",Oceania
-2019,2019213,Palau,"5,066",Oceania
-2019,2019214,Polynesia,"68,374",Oceania
-2019,2019215,American Samoa,"23,539",Oceania
-2019,2019216,Cook Islands,"3,491",Oceania
-2019,2019217,French Polynesia,"31,205",Oceania
-2019,2019218,Niue,588,Oceania
-2019,2019219,Samoa,"4,035",Oceania
-2019,2019220,Tokelau,504,Oceania
-2019,2019221,Tonga,"3,752",Oceania
-2019,2019222,Tuvalu,238,Oceania
-2019,2019223,Wallis and Futuna Islands,"1,022",Oceania
-2019,2019227,Belarus,"1,069,395",Europe
-2019,2019228,Bulgaria,"168,516",Europe
-2019,2019229,Czechia,"512,705",Europe
-2019,2019230,Hungary,"512,043",Europe
-2019,2019231,Poland,"655,985",Europe
-2019,2019232,Republic of Moldova,"104,713",Europe
-2019,2019233,Romania,"462,552",Europe
-2019,2019234,Russian Federation,"11,640,559",Europe
-2019,2019235,Slovakia,"187,984",Europe
-2019,2019236,Ukraine,"4,964,293",Europe
-2019,2019238,Channel Islands,"83,833",Europe
-2019,2019239,Denmark,"722,878",Europe
-2019,2019240,Estonia,"190,242",Europe
-2019,2019241,Faroe Islands,"6,454",Europe
-2019,2019242,Finland,"383,116",Europe
-2019,2019243,Iceland,"52,404",Europe
-2019,2019244,Ireland,"833,564",Europe
-2019,2019245,Isle of Man,"42,864",Europe
-2019,2019246,Latvia,"237,266",Europe
-2019,2019247,Lithuania,"117,218",Europe
-2019,2019248,Norway,"867,765",Europe
-2019,2019249,Sweden,"2,005,210",Europe
-2019,2019250,United Kingdom,"9,552,110",Europe
-2019,2019252,Albania,"49,160",Europe
-2019,2019253,Andorra,"45,102",Europe
-2019,2019254,Bosnia and Herzegovina,"35,735",Europe
-2019,2019255,Croatia,"518,083",Europe
-2019,2019256,Gibraltar,"11,172",Europe
-2019,2019257,Greece,"1,211,382",Europe
-2019,2019258,Holy See,799,Europe
-2019,2019259,Italy,"6,273,722",Europe
-2019,2019260,Malta,"84,949",Europe
-2019,2019261,Montenegro,"70,967",Europe
-2019,2019262,North Macedonia,"131,175",Europe
-2019,2019263,Portugal,"888,162",Europe
-2019,2019264,San Marino,"5,507",Europe
-2019,2019265,Serbia,"820,312",Europe
-2019,2019266,Slovenia,"253,122",Europe
-2019,2019267,Spain,"6,104,203",Europe
-2019,2019269,Austria,"1,779,857",Europe
-2019,2019270,Belgium,"1,981,919",Europe
-2019,2019271,France,"8,334,875",Europe
-2019,2019272,Germany,"13,132,146",Europe
-2019,2019273,Liechtenstein,"25,467",Europe
-2019,2019274,Luxembourg,"291,723",Europe
-2019,2019275,Monaco,"26,511",Europe
-2019,2019276,Netherlands,"2,282,791",Europe
-2019,2019277,Switzerland,"2,572,029",Europe
-2019,2019279,Bermuda,"19,336",North America 
-2019,2019280,Canada,"7,960,657",North America 
-2019,2019281,Greenland,"5,690",North America 
-2019,2019282,Saint Pierre and Miquelon,990,North America 
-2019,2019283,United States of America,"50,661,149",North America 
+﻿migration_bubbleplot,,,
+Year,Country,Total,Continent
+,,,
+1990,Burundi,333110,Africa
+1990,Comoros,14079,Africa
+1990,Djibouti,122221,Africa
+1990,Eritrea,11848,Africa
+1990,Ethiopia,1155390,Africa
+1990,Kenya,298089,Africa
+1990,Madagascar,23917,Africa
+1990,Malawi,1127724,Africa
+1990,Mauritius,3613,Africa
+1990,Mayotte,15229,Africa
+1990,Mozambique,122332,Africa
+1990,Réunion,57210,Africa
+1990,Rwanda,160024,Africa
+1990,Seychelles,3721,Africa
+1990,Somalia,478294,Africa
+1990,South Sudan,..,Africa
+1990,Uganda,544273,Africa
+1990,United Republic of Tanzania,574025,Africa
+1990,Zambia,279463,Africa
+1990,Zimbabwe,634621,Africa
+1990,Angola,33517,Africa
+1990,Cameroon,265967,Africa
+1990,Central African Republic,67234,Africa
+1990,Chad,74342,Africa
+1990,Congo,129391,Africa
+1990,Democratic Republic of the Congo,754194,Africa
+1990,Equatorial Guinea,2740,Africa
+1990,Gabon,128188,Africa
+1990,Sao Tome and Principe,5582,Africa
+1990,Botswana,27510,Africa
+1990,Eswatini,74991,Africa
+1990,Lesotho,8240,Africa
+1990,Namibia,120641,Africa
+1990,South Africa,1163883,Africa
+1990,Benin,76751,Africa
+1990,Burkina Faso,349652,Africa
+1990,Cabo Verde,8931,Africa
+1990,Côte d'Ivoire,1816426,Africa
+1990,Gambia,118123,Africa
+1990,Ghana,164851,Africa
+1990,Guinea,403621,Africa
+1990,Guinea-Bissau,15368,Africa
+1990,Liberia,94964,Africa
+1990,Mali,160736,Africa
+1990,Mauritania,111650,Africa
+1990,Niger,115464,Africa
+1990,Nigeria,456621,Africa
+1990,Saint Helena,178,Africa
+1990,Senegal,270410,Africa
+1990,Sierra Leone,222148,Africa
+1990,Togo,84844,Africa
+1990,Algeria,273954,Africa
+1990,Egypt,173833,Africa
+1990,Libya,457075,Africa
+1990,Morocco,54895,Africa
+1990,Sudan,1402896,Africa
+1990,Tunisia,37984,Africa
+1990,Western Sahara,2688,Africa
+1990,Armenia,658789,Asia
+1990,Azerbaijan,360600,Asia
+1990,Bahrain,173212,Asia
+1990,Cyprus,43805,Asia
+1990,Georgia,304470,Asia
+1990,Iraq,83638,Asia
+1990,Israel,1632704,Asia
+1990,Jordan,1146349,Asia
+1990,Kuwait,1074391,Asia
+1990,Lebanon,523693,Asia
+1990,Oman,304000,Asia
+1990,Qatar,309753,Asia
+1990,Saudi Arabia,4998445,Asia
+1990,State of Palestine,288332,Asia
+1990,Syrian Arab Republic,714140,Asia
+1990,Turkey,1163686,Asia
+1990,United Arab Emirates,1306574,Asia
+1990,Yemen,118863,Asia
+1990,Kazakhstan,3619200,Asia
+1990,Kyrgyzstan,623083,Asia
+1990,Tajikistan,428900,Asia
+1990,Turkmenistan,306500,Asia
+1990,Uzbekistan,1653000,Asia
+1990,Afghanistan,57686,Asia
+1990,Bangladesh,881617,Asia
+1990,Bhutan,23807,Asia
+1990,India,7594801,Asia
+1990,Iran (Islamic Republic of),4291601,Asia
+1990,Maldives,8689,Asia
+1990,Nepal,429974,Asia
+1990,Pakistan,6208204,Asia
+1990,Sri Lanka,41561,Asia
+1990,China,376361,Asia
+1990,"China, Hong Kong SAR",2218473,Asia
+1990,"China, Macao SAR",205047,Asia
+1990,Dem. People's Republic of Korea,34103,Asia
+1990,Japan,1075317,Asia
+1990,Mongolia,6718,Asia
+1990,Republic of Korea,43247,Asia
+1990,Brunei Darussalam,73200,Asia
+1990,Cambodia,38375,Asia
+1990,Indonesia,465612,Asia
+1990,Lao People's Democratic Republic,22866,Asia
+1990,Malaysia,695920,Asia
+1990,Myanmar,133545,Asia
+1990,Philippines,154071,Asia
+1990,Singapore,727262,Asia
+1990,Thailand,528693,Asia
+1990,Timor-Leste,8954,Asia
+1990,Viet Nam,28118,Asia
+1990,Caribbean,1056483,North America 
+1990,Anguilla,2570,North America 
+1990,Antigua and Barbuda,12029,North America 
+1990,Aruba,14444,North America 
+1990,Bahamas,26855,North America 
+1990,Barbados,24024,North America 
+1990,British Virgin Islands,8035,North America 
+1990,"Bonaire, Sint Eustatius and Saba",38410,North America 
+1990,Cayman Islands,9315,North America 
+1990,Cuba,34555,North America 
+1990,Curaçao,,North America 
+1990,Dominica,2519,North America 
+1990,Dominican Republic,291151,North America 
+1990,Grenada,4263,North America 
+1990,Guadeloupe,65944,North America 
+1990,Haiti,19084,North America 
+1990,Jamaica,20475,North America 
+1990,Martinique,38705,North America 
+1990,Montserrat,2013,North America 
+1990,Puerto Rico,321909,North America 
+1990,Saint Kitts and Nevis,3210,North America 
+1990,Saint Lucia,5305,North America 
+1990,Saint Vincent and the Grenadines,3970,North America 
+1990,Sint Maarten (Dutch part),..,North America 
+1990,Trinidad and Tobago,50666,North America 
+1990,Turks and Caicos Islands,5062,North America 
+1990,United States Virgin Islands,51970,North America 
+1990,Belize,30404,North America 
+1990,Costa Rica,417628,North America 
+1990,El Salvador,47360,North America 
+1990,Guatemala,264257,North America 
+1990,Honduras,270423,North America 
+1990,Mexico,695674,North America 
+1990,Nicaragua,41421,North America 
+1990,Panama,62744,North America 
+1990,Argentina,1649919,South America
+1990,Bolivia (Plurinational State of),73758,South America
+1990,Brazil,798517,South America
+1990,Chile,107501,South America
+1990,Colombia,104277,South America
+1990,Ecuador,78663,South America
+1990,Falkland Islands (Malvinas),855,South America
+1990,French Guiana,63612,South America
+1990,Guyana,4095,South America
+1990,Paraguay,195884,South America
+1990,Peru,56688,South America
+1990,Suriname,18083,South America
+1990,Uruguay,98116,South America
+1990,Venezuela (Bolivarian Republic of),1025009,South America
+1990,Australia / New Zealand,4473260,Oceania
+1990,Australia,3955213,Oceania
+1990,New Zealand,518047,Oceania
+1990,Melanesia,91200,Oceania
+1990,Fiji,13283,Oceania
+1990,New Caledonia,37673,Oceania
+1990,Papua New Guinea,33710,Oceania
+1990,Solomon Islands,4226,Oceania
+1990,Vanuatu,2308,Oceania
+1990,Micronesia,108969,Oceania
+1990,Guam,69755,Oceania
+1990,Kiribati,2162,Oceania
+1990,Marshall Islands,1158,Oceania
+1990,Micronesia (Fed. States of),3685,Oceania
+1990,Nauru,2815,Oceania
+1990,Northern Mariana Islands,26593,Oceania
+1990,Palau,2801,Oceania
+1990,Polynesia,58419,Oceania
+1990,American Samoa,21283,Oceania
+1990,Cook Islands,2587,Oceania
+1990,French Polynesia,25830,Oceania
+1990,Niue,461,Oceania
+1990,Samoa,3357,Oceania
+1990,Tokelau,270,Oceania
+1990,Tonga,2911,Oceania
+1990,Tuvalu,318,Oceania
+1990,Wallis and Futuna Islands,1402,Oceania
+1990,Belarus,1248977,Europe
+1990,Bulgaria,21510,Europe
+1990,Czechia,110394,Europe
+1990,Hungary,347510,Europe
+1990,Poland,1127771,Europe
+1990,Republic of Moldova,544162,Europe
+1990,Romania,135825,Europe
+1990,Russian Federation,11524948,Europe
+1990,Slovakia,41295,Europe
+1990,Ukraine,6892920,Europe
+1990,Channel Islands,61660,Europe
+1990,Denmark,235189,Europe
+1990,Estonia,381997,Europe
+1990,Faroe Islands,4285,Europe
+1990,Finland,63255,Europe
+1990,Iceland,9584,Europe
+1990,Ireland,227961,Europe
+1990,Isle of Man,34769,Europe
+1990,Latvia,646007,Europe
+1990,Lithuania,349258,Europe
+1990,Norway,192587,Europe
+1990,Sweden,788767,Europe
+1990,United Kingdom,3650286,Europe
+1990,Albania,66013,Europe
+1990,Andorra,38891,Europe
+1990,Bosnia and Herzegovina,56000,Europe
+1990,Croatia,475438,Europe
+1990,Gibraltar,8709,Europe
+1990,Greece,618139,Europe
+1990,Holy See,768,Europe
+1990,Italy,1428219,Europe
+1990,Malta,15077,Europe
+1990,Montenegro,,Europe
+1990,North Macedonia,95142,Europe
+1990,Portugal,435782,Europe
+1990,San Marino,3310,Europe
+1990,Serbia,99269,Europe
+1990,Slovenia,178077,Europe
+1990,Spain,821605,Europe
+1990,Austria,793239,Europe
+1990,Belgium,1280583,Europe
+1990,France,5897267,Europe
+1990,Germany,5936181,Europe
+1990,Liechtenstein,10906,Europe
+1990,Luxembourg,113795,Europe
+1990,Monaco,20359,Europe
+1990,Netherlands,1182263,Europe
+1990,Switzerland,1392282,Europe
+1990,Bermuda,15683,North America 
+1990,Canada,4333318,North America 
+1990,Greenland,9282,North America 
+1990,Saint Pierre and Miquelon,1099,North America 
+1990,United States of America,23251026,North America 
+1995,Burundi,254853,Africa
+1995,Comoros,13939,Africa
+1995,Djibouti,99774,Africa
+1995,Eritrea,12400,Africa
+1995,Ethiopia,806904,Africa
+1995,Kenya,618745,Africa
+1995,Madagascar,21177,Africa
+1995,Malawi,241624,Africa
+1995,Mauritius,7493,Africa
+1995,Mayotte,26316,Africa
+1995,Mozambique,168256,Africa
+1995,Réunion,77159,Africa
+1995,Rwanda,215735,Africa
+1995,Seychelles,5148,Africa
+1995,Somalia,19527,Africa
+1995,South Sudan,..,Africa
+1995,Uganda,606987,Africa
+1995,United Republic of Tanzania,1106043,Africa
+1995,Zambia,244338,Africa
+1995,Zimbabwe,431226,Africa
+1995,Angola,39813,Africa
+1995,Cameroon,244791,Africa
+1995,Central African Republic,99712,Africa
+1995,Chad,89584,Africa
+1995,Congo,191635,Africa
+1995,Democratic Republic of the Congo,1816963,Africa
+1995,Equatorial Guinea,3629,Africa
+1995,Gabon,171427,Africa
+1995,Sao Tome and Principe,4936,Africa
+1995,Botswana,40168,Africa
+1995,Eswatini,35157,Africa
+1995,Lesotho,7204,Africa
+1995,Namibia,115372,Africa
+1995,South Africa,1003807,Africa
+1995,Benin,105703,Africa
+1995,Burkina Faso,464104,Africa
+1995,Cabo Verde,9979,Africa
+1995,Côte d'Ivoire,2076394,Africa
+1995,Gambia,150890,Africa
+1995,Ghana,252879,Africa
+1995,Guinea,774505,Africa
+1995,Guinea-Bissau,27961,Africa
+1995,Liberia,208563,Africa
+1995,Mali,176187,Africa
+1995,Mauritania,89562,Africa
+1995,Niger,145999,Africa
+1995,Nigeria,462999,Africa
+1995,Saint Helena,117,Africa
+1995,Senegal,287654,Africa
+1995,Sierra Leone,98516,Africa
+1995,Togo,101583,Africa
+1995,Algeria,262032,Africa
+1995,Egypt,166955,Africa
+1995,Libya,508041,Africa
+1995,Morocco,50360,Africa
+1995,Sudan,1053396,Africa
+1995,Tunisia,37867,Africa
+1995,Western Sahara,2989,Africa
+1995,Armenia,693999,Asia
+1995,Azerbaijan,344070,Asia
+1995,Bahrain,205979,Asia
+1995,Cyprus,61941,Asia
+1995,Georgia,152235,Asia
+1995,Iraq,199460,Asia
+1995,Israel,1792185,Asia
+1995,Jordan,1537097,Asia
+1995,Kuwait,921954,Asia
+1995,Lebanon,608303,Asia
+1995,Oman,539643,Asia
+1995,Qatar,361673,Asia
+1995,Saudi Arabia,5122702,Asia
+1995,State of Palestine,281767,Asia
+1995,Syrian Arab Republic,830610,Asia
+1995,Turkey,1216173,Asia
+1995,United Arab Emirates,1824118,Asia
+1995,Yemen,136515,Asia
+1995,Kazakhstan,3251968,Asia
+1995,Kyrgyzstan,518338,Asia
+1995,Tajikistan,348347,Asia
+1995,Turkmenistan,273565,Asia
+1995,Uzbekistan,1512577,Asia
+1995,Afghanistan,71522,Asia
+1995,Bangladesh,934735,Asia
+1995,Bhutan,27972,Asia
+1995,India,6952238,Asia
+1995,Iran ,2937668,Asia
+1995,Maldives,18510,Asia
+1995,Nepal,690225,Asia
+1995,Pakistan,3669308,Asia
+1995,Sri Lanka,40841,Asia
+1995,China,442198,Asia
+1995,"China, Hong Kong SAR",2443798,Asia
+1995,"China, Macao SAR",224929,Asia
+1995,Dem. People's Republic of Korea,35143,Asia
+1995,Japan,1362371,Asia
+1995,Mongolia,7424,Asia
+1995,Republic of Korea,123886,Asia
+1995,Brunei Darussalam,84748,Asia
+1995,Cambodia,92230,Asia
+1995,Indonesia,378960,Asia
+1995,Lao People's Democratic Republic,23526,Asia
+1995,Malaysia,937368,Asia
+1995,Myanmar,113663,Asia
+1995,Philippines,207345,Asia
+1995,Singapore,991492,Asia
+1995,Thailand,809720,Asia
+1995,Timor-Leste,9743,Asia
+1995,Viet Nam,51262,Asia
+1995,Caribbean,1148720,North America 
+1995,Anguilla,3317,North America 
+1995,Antigua and Barbuda,17550,North America 
+1995,Aruba,22274,North America 
+1995,Bahamas,31654,North America 
+1995,Barbados,26224,North America 
+1995,British Virgin Islands,10046,North America 
+1995,"Bonaire, Sint Eustatius and Saba",42258,North America 
+1995,Cayman Islands,12666,North America 
+1995,Cuba,26187,North America 
+1995,Curaçao,,North America 
+1995,Dominica,3121,North America 
+1995,Dominican Republic,323381,North America 
+1995,Grenada,5544,North America 
+1995,Guadeloupe,74566,North America 
+1995,Haiti,18129,North America 
+1995,Jamaica,22713,North America 
+1995,Martinique,46599,North America 
+1995,Montserrat,1612,North America 
+1995,Puerto Rico,338067,North America 
+1995,Saint Kitts and Nevis,4248,North America 
+1995,Saint Lucia,7155,North America 
+1995,Saint Vincent and the Grenadines,4135,North America 
+1995,Sint Maarten (Dutch part),..,North America 
+1995,Trinidad and Tobago,45994,North America 
+1995,Turks and Caicos Islands,7039,North America 
+1995,United States Virgin Islands,54241,North America 
+1995,Belize,33446,North America 
+1995,Costa Rica,364287,North America 
+1995,El Salvador,39537,North America 
+1995,Guatemala,156188,North America 
+1995,Honduras,149442,North America 
+1995,Mexico,458549,North America 
+1995,Nicaragua,26619,North America 
+1995,Panama,70848,North America 
+1995,Argentina,1595069,South America
+1995,Bolivia (Plurinational State of),83598,South America
+1995,Brazil,741557,South America
+1995,Chile,142417,South America
+1995,Colombia,106943,South America
+1995,Ecuador,115093,South America
+1995,Falkland Islands (Malvinas),868,South America
+1995,French Guiana,70131,South America
+1995,Guyana,6352,South America
+1995,Paraguay,186570,South America
+1995,Peru,56732,South America
+1995,Suriname,22320,South America
+1995,Uruguay,93428,South America
+1995,Venezuela (Bolivarian Republic of),1019996,South America
+1995,Australia / New Zealand,4741947,Oceania
+1995,Australia,4153330,Oceania
+1995,New Zealand,588617,Oceania
+1995,Melanesia,96828,Oceania
+1995,Fiji,13001,Oceania
+1995,New Caledonia,43662,Oceania
+1995,Papua New Guinea,33526,Oceania
+1995,Solomon Islands,4178,Oceania
+1995,Vanuatu,2461,Oceania
+1995,Micronesia,118687,Oceania
+1995,Guam,71912,Oceania
+1995,Kiribati,2223,Oceania
+1995,Marshall Islands,1480,Oceania
+1995,Micronesia (Fed. States of),3342,Oceania
+1995,Nauru,2605,Oceania
+1995,Northern Mariana Islands,32376,Oceania
+1995,Palau,4749,Oceania
+1995,Polynesia,64825,Oceania
+1995,American Samoa,23098,Oceania
+1995,Cook Islands,2686,Oceania
+1995,French Polynesia,28360,Oceania
+1995,Niue,480,Oceania
+1995,Samoa,4694,Oceania
+1995,Tokelau,266,Oceania
+1995,Tonga,3274,Oceania
+1995,Tuvalu,263,Oceania
+1995,Wallis and Futuna Islands,1704,Oceania
+1995,Belarus,1186282,Europe
+1995,Bulgaria,32435,Europe
+1995,Czechia,165592,Europe
+1995,Hungary,322234,Europe
+1995,Poland,964725,Europe
+1995,Republic of Moldova,367231,Europe
+1995,Romania,135037,Europe
+1995,Russian Federation,11928927,Europe
+1995,Slovakia,69323,Europe
+1995,Ukraine,6172338,Europe
+1995,Channel Islands,60519,Europe
+1995,Denmark,303108,Europe
+1995,Estonia,315755,Europe
+1995,Faroe Islands,2900,Europe
+1995,Finland,99729,Europe
+1995,Iceland,12738,Europe
+1995,Ireland,226892,Europe
+1995,Isle of Man,36886,Europe
+1995,Latvia,538093,Europe
+1995,Lithuania,273587,Europe
+1995,Norway,233302,Europe
+1995,Sweden,936022,Europe
+1995,United Kingdom,4155293,Europe
+1995,Albania,71354,Europe
+1995,Andorra,44206,Europe
+1995,Bosnia and Herzegovina,69476,Europe
+1995,Croatia,674085,Europe
+1995,Gibraltar,8381,Europe
+1995,Greece,857850,Europe
+1995,Holy See,780,Europe
+1995,Italy,1774954,Europe
+1995,Malta,17740,Europe
+1995,Montenegro,,Europe
+1995,North Macedonia,109343,Europe
+1995,Portugal,532822,Europe
+1995,San Marino,3659,Europe
+1995,Serbia,870980,Europe
+1995,Slovenia,174419,Europe
+1995,Spain,1020067,Europe
+1995,Austria,894893,Europe
+1995,Belgium,1288003,Europe
+1995,France,6087993,Europe
+1995,Germany,7464406,Europe
+1995,Liechtenstein,13311,Europe
+1995,Luxembourg,126106,Europe
+1995,Monaco,21060,Europe
+1995,Netherlands,1346164,Europe
+1995,Switzerland,1478829,Europe
+1995,Bermuda,16676,North America 
+1995,Canada,4864778,North America 
+1995,Greenland,7121,North America 
+1995,Saint Pierre and Miquelon,1320,North America 
+1995,United States of America,28451053,North America 
+2000,Burundi,125628,Africa
+2000,Comoros,13799,Africa
+2000,Djibouti,100507,Africa
+2000,Eritrea,12952,Africa
+2000,Ethiopia,611384,Africa
+2000,Kenya,707852,Africa
+2000,Madagascar,23541,Africa
+2000,Malawi,232620,Africa
+2000,Mauritius,15543,Africa
+2000,Mayotte,45474,Africa
+2000,Mozambique,195702,Africa
+2000,Réunion,100678,Africa
+2000,Rwanda,347076,Africa
+2000,Seychelles,6574,Africa
+2000,Somalia,20097,Africa
+2000,South Sudan,..,Africa
+2000,Uganda,584280,Africa
+2000,United Republic of Tanzania,949600,Africa
+2000,Zambia,343703,Africa
+2000,Zimbabwe,410109,Africa
+2000,Angola,46108,Africa
+2000,Cameroon,227242,Africa
+2000,Central African Republic,123529,Africa
+2000,Chad,104825,Africa
+2000,Congo,305880,Africa
+2000,Democratic Republic of the Congo,744387,Africa
+2000,Equatorial Guinea,4517,Africa
+2000,Gabon,214431,Africa
+2000,Sao Tome and Principe,4365,Africa
+2000,Botswana,74934,Africa
+2000,Eswatini,34084,Africa
+2000,Lesotho,6167,Africa
+2000,Namibia,135547,Africa
+2000,South Africa,1016963,Africa
+2000,Benin,134655,Africa
+2000,Burkina Faso,520363,Africa
+2000,Cabo Verde,11027,Africa
+2000,Côte d'Ivoire,2163644,Africa
+2000,Gambia,182514,Africa
+2000,Ghana,191601,Africa
+2000,Guinea,560075,Africa
+2000,Guinea-Bissau,20450,Africa
+2000,Liberia,151868,Africa
+2000,Mali,189475,Africa
+2000,Mauritania,57366,Africa
+2000,Niger,122260,Africa
+2000,Nigeria,487882,Africa
+2000,Saint Helena,108,Africa
+2000,Senegal,231901,Africa
+2000,Sierra Leone,97974,Africa
+2000,Togo,137968,Africa
+2000,Algeria,250110,Africa
+2000,Egypt,184774,Africa
+2000,Libya,567436,Africa
+2000,Morocco,53034,Africa
+2000,Sudan,805086,Africa
+2000,Tunisia,36719,Africa
+2000,Western Sahara,3289,Africa
+2000,Armenia,657900,Asia
+2000,Azerbaijan,327540,Asia
+2000,Bahrain,239361,Asia
+2000,Cyprus,80076,Asia
+2000,Georgia,76117,Asia
+2000,Iraq,210525,Asia
+2000,Israel,1851309,Asia
+2000,Jordan,1927845,Asia
+2000,Kuwait,1127640,Asia
+2000,Lebanon,692913,Asia
+2000,Oman,623608,Asia
+2000,Qatar,359697,Asia
+2000,Saudi Arabia,5263387,Asia
+2000,State of Palestine,275202,Asia
+2000,Syrian Arab Republic,834916,Asia
+2000,Turkey,1280963,Asia
+2000,United Arab Emirates,2447010,Asia
+2000,Yemen,144940,Asia
+2000,Kazakhstan,2874194,Asia
+2000,Kyrgyzstan,389824,Asia
+2000,Tajikistan,299499,Asia
+2000,Turkmenistan,219067,Asia
+2000,Uzbekistan,1406498,Asia
+2000,Afghanistan,75917,Asia
+2000,Bangladesh,987853,Asia
+2000,Bhutan,32137,Asia
+2000,India,6411331,Asia
+2000,Iran (Islamic Republic of),2803805,Asia
+2000,Maldives,27092,Asia
+2000,Nepal,717900,Asia
+2000,Pakistan,4181912,Asia
+2000,Sri Lanka,40132,Asia
+2000,China,508034,Asia
+2000,"China, Hong Kong SAR",2669122,Asia
+2000,"China, Macao SAR",240791,Asia
+2000,Dem. People's Republic of Korea,36183,Asia
+2000,Japan,1686444,Asia
+2000,Mongolia,8206,Asia
+2000,Republic of Korea,244224,Asia
+2000,Brunei Darussalam,96296,Asia
+2000,Cambodia,146085,Asia
+2000,Indonesia,292307,Asia
+2000,Lao People's Democratic Republic,21948,Asia
+2000,Malaysia,1463598,Asia
+2000,Myanmar,98011,Asia
+2000,Philippines,318095,Asia
+2000,Singapore,1351691,Asia
+2000,Thailand,1257821,Asia
+2000,Timor-Leste,10602,Asia
+2000,Viet Nam,56754,Asia
+2000,Caribbean,1247863,South America
+2000,Anguilla,4063,South America
+2000,Antigua and Barbuda,23071,South America
+2000,Aruba,30104,South America
+2000,Bahamas,36454,South America
+2000,Barbados,28424,South America
+2000,British Virgin Islands,12958,South America
+2000,"Bonaire, Sint Eustatius and Saba",46105,South America
+2000,Cayman Islands,19176,South America
+2000,Cuba,17818,South America
+2000,Curaçao,,South America
+2000,Dominica,3723,South America
+2000,Dominican Republic,355611,South America
+2000,Grenada,6825,South America
+2000,Guadeloupe,83188,South America
+2000,Haiti,17222,South America
+2000,Jamaica,24952,South America
+2000,Martinique,54492,South America
+2000,Montserrat,1211,South America
+2000,Puerto Rico,355038,South America
+2000,Saint Kitts and Nevis,5871,South America
+2000,Saint Lucia,9871,South America
+2000,Saint Vincent and the Grenadines,4307,South America
+2000,Sint Maarten (Dutch part),..,South America
+2000,Trinidad and Tobago,41753,South America
+2000,Turks and Caicos Islands,9015,South America
+2000,United States Virgin Islands,56611,South America
+2000,Belize,36488,South America
+2000,Costa Rica,310946,South America
+2000,El Salvador,31713,South America
+2000,Guatemala,48119,South America
+2000,Honduras,28461,South America
+2000,Mexico,538051,South America
+2000,Nicaragua,30389,South America
+2000,Panama,83410,South America
+2000,Argentina,1540219,South America
+2000,Bolivia (Plurinational State of),92658,South America
+2000,Brazil,684596,South America
+2000,Chile,177332,South America
+2000,Colombia,109609,South America
+2000,Ecuador,151523,South America
+2000,Falkland Islands (Malvinas),1067,South America
+2000,French Guiana,76649,South America
+2000,Guyana,8610,South America
+2000,Paraguay,176608,South America
+2000,Peru,66300,South America
+2000,Suriname,27506,South America
+2000,Uruguay,88874,South America
+2000,Venezuela (Bolivarian Republic of),1013738,South America
+2000,Australia,4386250,Oceania
+2000,New Zealand,678813,Oceania
+2000,Melanesia,95281,Oceania
+2000,Fiji,12719,Oceania
+2000,New Caledonia,49651,Oceania
+2000,Papua New Guinea,26304,Oceania
+2000,Solomon Islands,3981,Oceania
+2000,Vanuatu,2626,Oceania
+2000,Micronesia,130186,Oceania
+2000,Guam,74070,Oceania
+2000,Kiribati,2283,Oceania
+2000,Marshall Islands,1891,Oceania
+2000,Micronesia (Fed. States of),3116,Oceania
+2000,Nauru,2394,Oceania
+2000,Northern Mariana Islands,40122,Oceania
+2000,Palau,6310,Oceania
+2000,Polynesia,70701,Oceania
+2000,American Samoa,24912,Oceania
+2000,Cook Islands,2785,Oceania
+2000,French Polynesia,30329,Oceania
+2000,Niue,498,Oceania
+2000,Samoa,5998,Oceania
+2000,Tokelau,262,Oceania
+2000,Tonga,3684,Oceania
+2000,Tuvalu,218,Oceania
+2000,Wallis and Futuna Islands,2015,Oceania
+2000,Belarus,1123586,Europe
+2000,Bulgaria,43360,Europe
+2000,Czechia,220789,Europe
+2000,Hungary,296957,Europe
+2000,Poland,825251,Europe
+2000,Republic of Moldova,247828,Europe
+2000,Romania,134254,Europe
+2000,Russian Federation,11900297,Europe
+2000,Slovakia,116376,Europe
+2000,Ukraine,5527087,Europe
+2000,Channel Islands,64301,Europe
+2000,Denmark,371026,Europe
+2000,Estonia,249512,Europe
+2000,Faroe Islands,3593,Europe
+2000,Finland,136203,Europe
+2000,Iceland,15892,Europe
+2000,Ireland,350552,Europe
+2000,Isle of Man,39002,Europe
+2000,Latvia,430178,Europe
+2000,Lithuania,214311,Europe
+2000,Norway,292440,Europe
+2000,Sweden,1003798,Europe
+2000,United Kingdom,4730165,Europe
+2000,Albania,76695,Europe
+2000,Andorra,42147,Europe
+2000,Bosnia and Herzegovina,82952,Europe
+2000,Croatia,585298,Europe
+2000,Gibraltar,8054,Europe
+2000,Greece,1111665,Europe
+2000,Holy See,785,Europe
+2000,Italy,2121688,Europe
+2000,Malta,21521,Europe
+2000,Montenegro,,Europe
+2000,North Macedonia,125665,Europe
+2000,Portugal,651472,Europe
+2000,San Marino,4045,Europe
+2000,Serbia,977873,Europe
+2000,Slovenia,214508,Europe
+2000,Spain,1657285,Europe
+2000,Austria,996547,Europe
+2000,Belgium,1268368,Europe
+2000,France,6278718,Europe
+2000,Germany,8992631,Europe
+2000,Liechtenstein,15483,Europe
+2000,Luxembourg,139750,Europe
+2000,Monaco,21787,Europe
+2000,Netherlands,1556337,Europe
+2000,Switzerland,1570756,Europe
+2000,Bermuda,17668,North America 
+2000,Canada,5511914,North America 
+2000,Greenland,6601,North America 
+2000,Saint Pierre and Miquelon,1458,North America 
+2000,United States of America,34814053,North America 
+2005,Burundi,172874,Africa
+2005,Comoros,13209,Africa
+2005,Djibouti,92091,Africa
+2005,Eritrea,14314,Africa
+2005,Ethiopia,514242,Africa
+2005,Kenya,773354,Africa
+2005,Madagascar,26058,Africa
+2005,Malawi,221661,Africa
+2005,Mauritius,19647,Africa
+2005,Mayotte,63176,Africa
+2005,Mozambique,264679,Africa
+2005,Réunion,115076,Africa
+2005,Rwanda,423187,Africa
+2005,Seychelles,8997,Africa
+2005,Somalia,20670,Africa
+2005,South Sudan,..,Africa
+2005,Uganda,593308,Africa
+2005,United Republic of Tanzania,771153,Africa
+2005,Zambia,252895,Africa
+2005,Zimbabwe,402226,Africa
+2005,Angola,61329,Africa
+2005,Cameroon,265503,Africa
+2005,Central African Republic,94449,Africa
+2005,Chad,352062,Africa
+2005,Congo,318724,Africa
+2005,Democratic Republic of the Congo,622869,Africa
+2005,Equatorial Guinea,6588,Africa
+2005,Gabon,233824,Africa
+2005,Sao Tome and Principe,3433,Africa
+2005,Botswana,84614,Africa
+2005,Eswatini,33392,Africa
+2005,Lesotho,6290,Africa
+2005,Namibia,107347,Africa
+2005,South Africa,1351031,Africa
+2005,Benin,221889,Africa
+2005,Burkina Faso,597658,Africa
+2005,Cabo Verde,12700,Africa
+2005,Côte d'Ivoire,2265090,Africa
+2005,Gambia,181905,Africa
+2005,Ghana,304436,Africa
+2005,Guinea,229611,Africa
+2005,Guinea-Bissau,20736,Africa
+2005,Liberia,87188,Africa
+2005,Mali,256797,Africa
+2005,Mauritania,58119,Africa
+2005,Niger,124461,Africa
+2005,Nigeria,969294,Africa
+2005,Saint Helena,163,Africa
+2005,Senegal,238298,Africa
+2005,Sierra Leone,146050,Africa
+2005,Togo,203799,Africa
+2005,Algeria,197422,Africa
+2005,Egypt,285006,Africa
+2005,Libya,625212,Africa
+2005,Morocco,54379,Africa
+2005,Sudan,546419,Africa
+2005,Tunisia,35040,Africa
+2005,Western Sahara,3891,Africa
+2005,Armenia,469119,Asia
+2005,Azerbaijan,302220,Asia
+2005,Bahrain,404018,Asia
+2005,Cyprus,117165,Asia
+2005,Georgia,72311,Asia
+2005,Iraq,132915,Asia
+2005,Israel,1889503,Asia
+2005,Jordan,2325414,Asia
+2005,Kuwait,1333327,Asia
+2005,Lebanon,756784,Asia
+2005,Oman,666160,Asia
+2005,Qatar,646026,Asia
+2005,Saudi Arabia,6501819,Asia
+2005,State of Palestine,266617,Asia
+2005,Syrian Arab Republic,878308,Asia
+2005,Turkey,1319236,Asia
+2005,United Arab Emirates,3281115,Asia
+2005,Yemen,171871,Asia
+2005,Kazakhstan,3103027,Asia
+2005,Kyrgyzstan,309399,Asia
+2005,Tajikistan,280466,Asia
+2005,Turkmenistan,213053,Asia
+2005,Uzbekistan,1329932,Asia
+2005,Afghanistan,87300,Asia
+2005,Bangladesh,1166700,Asia
+2005,Bhutan,40279,Asia
+2005,India,5923945,Asia
+2005,Iran (Islamic Republic of),2568930,Asia
+2005,Maldives,45045,Asia
+2005,Nepal,679457,Asia
+2005,Pakistan,3171132,Asia
+2005,Sri Lanka,39526,Asia
+2005,China,678947,Asia
+2005,"China, Hong Kong SAR",2721235,Asia
+2005,"China, Macao SAR",279308,Asia
+2005,Dem. People's Republic of Korea,40097,Asia
+2005,Japan,2011555,Asia
+2005,Mongolia,11477,Asia
+2005,Republic of Korea,486065,Asia
+2005,Brunei Darussalam,98441,Asia
+2005,Cambodia,114031,Asia
+2005,Indonesia,289568,Asia
+2005,Lao People's Democratic Republic,20371,Asia
+2005,Malaysia,1918504,Asia
+2005,Myanmar,83025,Asia
+2005,Philippines,257468,Asia
+2005,Singapore,1710594,Asia
+2005,Thailand,2163447,Asia
+2005,Timor-Leste,11286,Asia
+2005,Viet Nam,51768,Asia
+2005,Caribbean,1311361,North America 
+2005,Anguilla,4684,North America 
+2005,Antigua and Barbuda,24741,North America 
+2005,Aruba,32540,North America 
+2005,Bahamas,45595,North America 
+2005,Barbados,30624,North America 
+2005,British Virgin Islands,15016,North America 
+2005,"Bonaire, Sint Eustatius and Saba",49105,North America 
+2005,Cayman Islands,20679,North America 
+2005,Cuba,11935,North America 
+2005,Curaçao,,North America 
+2005,Dominica,4744,North America 
+2005,Dominican Republic,376001,North America 
+2005,Grenada,6902,North America 
+2005,Guadeloupe,89065,North America 
+2005,Haiti,16360,North America 
+2005,Jamaica,24314,North America 
+2005,Martinique,57034,North America 
+2005,Montserrat,1244,North America 
+2005,Puerto Rico,352144,North America 
+2005,Saint Kitts and Nevis,6682,North America 
+2005,Saint Lucia,9842,North America 
+2005,Saint Vincent and the Grenadines,4436,North America 
+2005,Sint Maarten (Dutch part),13100,North America 
+2005,Trinidad and Tobago,44812,North America 
+2005,Turks and Caicos Islands,13115,North America 
+2005,United States Virgin Islands,56647,North America 
+2005,Belize,41424,North America 
+2005,Costa Rica,358175,North America 
+2005,El Salvador,36019,North America 
+2005,Guatemala,57252,North America 
+2005,Honduras,27875,North America 
+2005,Mexico,712487,North America 
+2005,Nicaragua,34918,North America 
+2005,Panama,117563,North America 
+2005,Argentina,1673088,South America
+2005,Bolivia (Plurinational State of),107745,South America
+2005,Brazil,638582,South America
+2005,Chile,276360,South America
+2005,Colombia,107612,South America
+2005,Ecuador,187404,South America
+2005,Falkland Islands (Malvinas),1166,South America
+2005,French Guiana,86468,South America
+2005,Guyana,10868,South America
+2005,Paraguay,168243,South America
+2005,Peru,77877,South America
+2005,Suriname,33664,South America
+2005,Uruguay,82317,South America
+2005,Venezuela (Bolivarian Republic of),1076474,South America
+2005,Australia,4878030,Oceania
+2005,New Zealand,839952,Oceania
+2005,Melanesia,104017,Oceania
+2005,Fiji,12435,Oceania
+2005,New Caledonia,55405,Oceania
+2005,Papua New Guinea,30106,Oceania
+2005,Solomon Islands,3271,Oceania
+2005,Vanuatu,2800,Oceania
+2005,Micronesia,128390,Oceania
+2005,Guam,74743,Oceania
+2005,Kiribati,2487,Oceania
+2005,Marshall Islands,2417,Oceania
+2005,Micronesia (Fed. States of),2905,Oceania
+2005,Nauru,2253,Oceania
+2005,Northern Mariana Islands,37542,Oceania
+2005,Palau,6043,Oceania
+2005,Polynesia,73023,Oceania
+2005,American Samoa,24233,Oceania
+2005,Cook Islands,3277,Oceania
+2005,French Polynesia,32286,Oceania
+2005,Niue,522,Oceania
+2005,Samoa,5746,Oceania
+2005,Tokelau,258,Oceania
+2005,Tonga,4301,Oceania
+2005,Tuvalu,209,Oceania
+2005,Wallis and Futuna Islands,2191,Oceania
+2005,Belarus,1106982,Europe
+2005,Bulgaria,61074,Europe
+2005,Czechia,322540,Europe
+2005,Hungary,366787,Europe
+2005,Poland,722509,Europe
+2005,Republic of Moldova,171122,Europe
+2005,Romania,145162,Europe
+2005,Russian Federation,11667588,Europe
+2005,Slovakia,130491,Europe
+2005,Ukraine,5050302,Europe
+2005,Channel Islands,70941,Europe
+2005,Denmark,440383,Europe
+2005,Estonia,233701,Europe
+2005,Faroe Islands,4583,Europe
+2005,Finland,192169,Europe
+2005,Iceland,25492,Europe
+2005,Ireland,589046,Europe
+2005,Isle of Man,41475,Europe
+2005,Latvia,376725,Europe
+2005,Lithuania,201209,Europe
+2005,Norway,361144,Europe
+2005,Sweden,1125790,Europe
+2005,United Kingdom,5926156,Europe
+2005,Albania,64739,Europe
+2005,Andorra,50298,Europe
+2005,Bosnia and Herzegovina,47272,Europe
+2005,Croatia,579273,Europe
+2005,Gibraltar,9211,Europe
+2005,Greece,1190707,Europe
+2005,Holy See,798,Europe
+2005,Italy,3954790,Europe
+2005,Malta,24560,Europe
+2005,Montenegro,,Europe
+2005,North Macedonia,127667,Europe
+2005,Portugal,771184,Europe
+2005,San Marino,4218,Europe
+2005,Serbia,854848,Europe
+2005,Slovenia,217218,Europe
+2005,Spain,4107226,Europe
+2005,Austria,1136270,Europe
+2005,Belgium,1248733,Europe
+2005,France,6737600,Europe
+2005,Germany,9402447,Europe
+2005,Liechtenstein,18898,Europe
+2005,Luxembourg,150618,Europe
+2005,Monaco,21312,Europe
+2005,Netherlands,1736127,Europe
+2005,Switzerland,1805437,Europe
+2005,Bermuda,18276,North America 
+2005,Canada,6078985,North America 
+2005,Greenland,6556,North America 
+2005,Saint Pierre and Miquelon,1147,North America 
+2005,United States of America,39258293,North America 
+2010,Burundi,235259,Africa
+2010,Comoros,12618,Africa
+2010,Djibouti,101575,Africa
+2010,Eritrea,15676,Africa
+2010,Ethiopia,568748,Africa
+2010,Kenya,954925,Africa
+2010,Madagascar,28905,Africa
+2010,Malawi,217722,Africa
+2010,Mauritius,24836,Africa
+2010,Mayotte,72757,Africa
+2010,Mozambique,306471,Africa
+2010,Réunion,123029,Africa
+2010,Rwanda,426901,Africa
+2010,Seychelles,11420,Africa
+2010,Somalia,48106,Africa
+2010,South Sudan,257905,Africa
+2010,Uganda,492930,Africa
+2010,United Republic of Tanzania,309847,Africa
+2010,Zambia,149962,Africa
+2010,Zimbabwe,398307,Africa
+2010,Angola,332126,Africa
+2010,Cameroon,291474,Africa
+2010,Central African Republic,93466,Africa
+2010,Chad,416924,Africa
+2010,Congo,425173,Africa
+2010,Democratic Republic of the Congo,588950,Africa
+2010,Equatorial Guinea,8658,Africa
+2010,Gabon,270829,Africa
+2010,Sao Tome and Principe,2700,Africa
+2010,Botswana,94614,Africa
+2010,Eswatini,32637,Africa
+2010,Lesotho,6414,Africa
+2010,Namibia,103826,Africa
+2010,South Africa,2114801,Africa
+2010,Benin,309124,Africa
+2010,Burkina Faso,674438,Africa
+2010,Cabo Verde,14373,Africa
+2010,Côte d'Ivoire,2366537,Africa
+2010,Gambia,185763,Africa
+2010,Ghana,337017,Africa
+2010,Guinea,177998,Africa
+2010,Guinea-Bissau,21061,Africa
+2010,Liberia,99129,Africa
+2010,Mali,339375,Africa
+2010,Mauritania,84679,Africa
+2010,Niger,126464,Africa
+2010,Nigeria,988679,Africa
+2010,Saint Helena,248,Africa
+2010,Senegal,256092,Africa
+2010,Sierra Leone,79055,Africa
+2010,Togo,255413,Africa
+2010,Algeria,216964,Africa
+2010,Egypt,310017,Africa
+2010,Libya,683998,Africa
+2010,Morocco,70909,Africa
+2010,Sudan,618709,Africa
+2010,Tunisia,43172,Africa
+2010,Western Sahara,4493,Africa
+2010,Armenia,211147,Asia
+2010,Azerbaijan,276901,Asia
+2010,Bahrain,657856,Asia
+2010,Cyprus,191866,Asia
+2010,Georgia,73034,Asia
+2010,Iraq,117389,Asia
+2010,Israel,1950615,Asia
+2010,Jordan,2722983,Asia
+2010,Kuwait,1871537,Asia
+2010,Lebanon,820655,Asia
+2010,Oman,816221,Asia
+2010,Qatar,1456413,Asia
+2010,Saudi Arabia,8429956,Asia
+2010,State of Palestine,258032,Asia
+2010,Syrian Arab Republic,1787561,Asia
+2010,Turkey,1367034,Asia
+2010,United Arab Emirates,7316697,Asia
+2010,Yemen,288394,Asia
+2010,Kazakhstan,3334937,Asia
+2010,Kyrgyzstan,232065,Asia
+2010,Tajikistan,279808,Asia
+2010,Turkmenistan,197979,Asia
+2010,Uzbekistan,1220149,Asia
+2010,Afghanistan,102246,Asia
+2010,Bangladesh,1345546,Asia
+2010,Bhutan,48420,Asia
+2010,India,5439758,Asia
+2010,Iran (Islamic Republic of),2761561,Asia
+2010,Maldives,54659,Asia
+2010,Nepal,578657,Asia
+2010,Pakistan,3941586,Asia
+2010,Sri Lanka,38959,Asia
+2010,China,849861,Asia
+2010,"China, Hong Kong SAR",2779950,Asia
+2010,"China, Macao SAR",318506,Asia
+2010,Dem. People's Republic of Korea,44010,Asia
+2010,Japan,2134151,Asia
+2010,Mongolia,16062,Asia
+2010,Republic of Korea,919987,Asia
+2010,Brunei Darussalam,100587,Asia
+2010,Cambodia,81977,Asia
+2010,Indonesia,305416,Asia
+2010,Lao People's Democratic Republic,32955,Asia
+2010,Malaysia,2417395,Asia
+2010,Myanmar,76414,Asia
+2010,Philippines,208599,Asia
+2010,Singapore,2164794,Asia
+2010,Thailand,3224131,Asia
+2010,Timor-Leste,11540,Asia
+2010,Viet Nam,61756,Asia
+2010,Caribbean,1326879,North America 
+2010,Anguilla,5103,North America 
+2010,Antigua and Barbuda,26412,North America 
+2010,Aruba,34327,North America 
+2010,Bahamas,54736,North America 
+2010,Barbados,32825,North America 
+2010,British Virgin Islands,17074,North America 
+2010,"Bonaire, Sint Eustatius and Saba",11445,North America 
+2010,Cayman Islands,24057,North America 
+2010,Cuba,6640,North America 
+2010,Curaçao,34627,North America 
+2010,Dominica,8110,North America 
+2010,Dominican Republic,393720,North America 
+2010,Grenada,6980,North America 
+2010,Guadeloupe,94942,North America 
+2010,Haiti,17178,North America 
+2010,Jamaica,23677,North America 
+2010,Martinique,59575,North America 
+2010,Montserrat,1291,North America 
+2010,Puerto Rico,304969,North America 
+2010,Saint Kitts and Nevis,7245,North America 
+2010,Saint Lucia,9051,North America 
+2010,Saint Vincent and the Grenadines,4569,North America 
+2010,Sint Maarten (Dutch part),26200,North America 
+2010,Trinidad and Tobago,48226,North America 
+2010,Turks and Caicos Islands,17216,North America 
+2010,United States Virgin Islands,56684,North America 
+2010,Belize,46360,North America 
+2010,Costa Rica,405404,North America 
+2010,El Salvador,40324,North America 
+2010,Guatemala,66384,North America 
+2010,Honduras,27288,North America 
+2010,Mexico,969538,North America 
+2010,Nicaragua,37333,North America 
+2010,Panama,157309,North America 
+2010,Argentina,1805957,South America
+2010,Bolivia (Plurinational State of),122846,South America
+2010,Brazil,592568,South America
+2010,Chile,375388,South America
+2010,Colombia,124271,South America
+2010,Ecuador,325366,South America
+2010,Falkland Islands (Malvinas),1436,South America
+2010,French Guiana,96288,South America
+2010,Guyana,13126,South America
+2010,Paraguay,160299,South America
+2010,Peru,104706,South America
+2010,Suriname,39713,South America
+2010,Uruguay,76303,South America
+2010,Venezuela (Bolivarian Republic of),1347347,South America
+2010,Australia,5882980,Oceania
+2010,New Zealand,947443,Oceania
+2010,Melanesia,110685,Oceania
+2010,Fiji,13351,Oceania
+2010,New Caledonia,61158,Oceania
+2010,Papua New Guinea,30425,Oceania
+2010,Solomon Islands,2760,Oceania
+2010,Vanuatu,2991,Oceania
+2010,Micronesia,115020,Oceania
+2010,Guam,75416,Oceania
+2010,Kiribati,2868,Oceania
+2010,Marshall Islands,3089,Oceania
+2010,Micronesia (Fed. States of),2806,Oceania
+2010,Nauru,1183,Oceania
+2010,Northern Mariana Islands,24168,Oceania
+2010,Palau,5490,Oceania
+2010,Polynesia,71552,Oceania
+2010,American Samoa,23555,Oceania
+2010,Cook Islands,3769,Oceania
+2010,French Polynesia,31640,Oceania
+2010,Niue,589,Oceania
+2010,Samoa,5122,Oceania
+2010,Tokelau,429,Oceania
+2010,Tonga,4604,Oceania
+2010,Tuvalu,220,Oceania
+2010,Wallis and Futuna Islands,1624,Oceania
+2010,Belarus,1090378,Europe
+2010,Bulgaria,76287,Europe
+2010,Czechia,398493,Europe
+2010,Hungary,436616,Europe
+2010,Poland,642417,Europe
+2010,Republic of Moldova,129488,Europe
+2010,Romania,177211,Europe
+2010,Russian Federation,11194710,Europe
+2010,Slovakia,146319,Europe
+2010,Ukraine,4818767,Europe
+2010,Channel Islands,77581,Europe
+2010,Denmark,500772,Europe
+2010,Estonia,217890,Europe
+2010,Faroe Islands,5096,Europe
+2010,Finland,228481,Europe
+2010,Iceland,35091,Europe
+2010,Ireland,730542,Europe
+2010,Isle of Man,43447,Europe
+2010,Latvia,313786,Europe
+2010,Lithuania,160772,Europe
+2010,Norway,526799,Europe
+2010,Sweden,1384929,Europe
+2010,United Kingdom,7119664,Europe
+2010,Albania,52784,Europe
+2010,Andorra,52053,Europe
+2010,Bosnia and Herzegovina,38792,Europe
+2010,Croatia,573248,Europe
+2010,Gibraltar,10369,Europe
+2010,Greece,1321149,Europe
+2010,Holy See,794,Europe
+2010,Italy,5787893,Europe
+2010,Malta,33008,Europe
+2010,Montenegro,78512,Europe
+2010,North Macedonia,129701,Europe
+2010,Portugal,762825,Europe
+2010,San Marino,4880,Europe
+2010,Serbia,826275,Europe
+2010,Slovenia,253786,Europe
+2010,Spain,6280065,Europe
+2010,Austria,1275992,Europe
+2010,Belgium,1503806,Europe
+2010,France,7309986,Europe
+2010,Germany,9812263,Europe
+2010,Liechtenstein,22342,Europe
+2010,Luxembourg,163142,Europe
+2010,Monaco,21132,Europe
+2010,Netherlands,1832510,Europe
+2010,Switzerland,2075182,Europe
+2010,Bermuda,18884,North America 
+2010,Canada,6761226,North America 
+2010,Greenland,6091,North America 
+2010,Saint Pierre and Miquelon,1017,North America 
+2010,United States of America,44183643,North America 
+2015,Burundi,289810,Africa
+2015,Comoros,12555,Africa
+2015,Djibouti,112351,Africa
+2015,Eritrea,15941,Africa
+2015,Ethiopia,1161642,Africa
+2015,Kenya,1126886,Africa
+2015,Madagascar,32075,Africa
+2015,Malawi,232803,Africa
+2015,Mauritius,28585,Africa
+2015,Mayotte,73992,Africa
+2015,Mozambique,321794,Africa
+2015,Réunion,127209,Africa
+2015,Rwanda,514647,Africa
+2015,Seychelles,12791,Africa
+2015,Somalia,40990,Africa
+2015,South Sudan,844122,Africa
+2015,Uganda,851175,Africa
+2015,United Republic of Tanzania,384567,Africa
+2015,Zambia,132107,Africa
+2015,Zimbabwe,400482,Africa
+2015,Angola,632178,Africa
+2015,Cameroon,508346,Africa
+2015,Central African Republic,81598,Africa
+2015,Chad,466968,Africa
+2015,Congo,390142,Africa
+2015,Democratic Republic of the Congo,824492,Africa
+2015,Equatorial Guinea,209611,Africa
+2015,Gabon,378686,Africa
+2015,Sao Tome and Principe,2394,Africa
+2015,Botswana,103268,Africa
+2015,Eswatini,32352,Africa
+2015,Lesotho,6572,Africa
+2015,Namibia,101618,Africa
+2015,South Africa,3816695,Africa
+2015,Benin,366284,Africa
+2015,Burkina Faso,704676,Africa
+2015,Cabo Verde,14924,Africa
+2015,Côte d'Ivoire,2467984,Africa
+2015,Gambia,192540,Africa
+2015,Ghana,414744,Africa
+2015,Guinea,126386,Africa
+2015,Guinea-Bissau,22333,Africa
+2015,Liberia,113779,Africa
+2015,Mali,420504,Africa
+2015,Mauritania,166552,Africa
+2015,Niger,252998,Africa
+2015,Nigeria,1199115,Africa
+2015,Saint Helena,377,Africa
+2015,Senegal,266496,Africa
+2015,Sierra Leone,58813,Africa
+2015,Togo,277384,Africa
+2015,Algeria,239473,Africa
+2015,Egypt,353641,Africa
+2015,Libya,771146,Africa
+2015,Morocco,92424,Africa
+2015,Sudan,620523,Africa
+2015,Tunisia,56532,Africa
+2015,Western Sahara,5179,Africa
+2015,Armenia,191199,Asia
+2015,Azerbaijan,264241,Asia
+2015,Bahrain,704137,Asia
+2015,Cyprus,192020,Asia
+2015,Georgia,76685,Asia
+2015,Iraq,359381,Asia
+2015,Israel,2011727,Asia
+2015,Jordan,3112026,Asia
+2015,Kuwait,2866136,Asia
+2015,Lebanon,1973204,Asia
+2015,Oman,1856226,Asia
+2015,Qatar,1687640,Asia
+2015,Saudi Arabia,10771366,Asia
+2015,State of Palestine,255507,Asia
+2015,Syrian Arab Republic,871174,Asia
+2015,Turkey,4346197,Asia
+2015,United Arab Emirates,7995126,Asia
+2015,Yemen,379882,Asia
+2015,Kazakhstan,3546060,Asia
+2015,Kyrgyzstan,204382,Asia
+2015,Tajikistan,275101,Asia
+2015,Turkmenistan,196376,Asia
+2015,Uzbekistan,1170873,Asia
+2015,Afghanistan,489749,Asia
+2015,Bangladesh,1422805,Asia
+2015,Bhutan,51106,Asia
+2015,India,5240960,Asia
+2015,Iran ,2726420,Asia
+2015,Maldives,64273,Asia
+2015,Nepal,509471,Asia
+2015,Pakistan,3506520,Asia
+2015,Sri Lanka,39706,Asia
+2015,China,978046,Asia
+2015,"China, Hong Kong SAR",2838665,Asia
+2015,"China, Macao SAR",376066,Asia
+2015,Dem. People's Republic of Korea,48458,Asia
+2015,Japan,2232189,Asia
+2015,Mongolia,19886,Asia
+2015,Republic of Korea,1143087,Asia
+2015,Brunei Darussalam,102733,Asia
+2015,Cambodia,73963,Asia
+2015,Indonesia,338124,Asia
+2015,Lao People's Democratic Republic,45538,Asia
+2015,Malaysia,3280681,Asia
+2015,Myanmar,73309,Asia
+2015,Philippines,211862,Asia
+2015,Singapore,2543638,Asia
+2015,Thailand,3486526,Asia
+2015,Timor-Leste,8520,Asia
+2015,Viet Nam,72793,Asia
+2015,Caribbean,1489916,North America 
+2015,Anguilla,5470,North America 
+2015,Antigua and Barbuda,28083,North America 
+2015,Aruba,36114,North America 
+2015,Bahamas,59306,North America 
+2015,Barbados,34475,North America 
+2015,British Virgin Islands,19132,North America 
+2015,"Bonaire, Sint Eustatius and Saba",13002,North America 
+2015,Cayman Islands,26177,North America 
+2015,Cuba,5312,North America 
+2015,Curaçao,37611,North America 
+2015,Dominica,8093,North America 
+2015,Dominican Republic,549289,North America 
+2015,Grenada,7057,North America 
+2015,Guadeloupe,98507,North America 
+2015,Haiti,18036,North America 
+2015,Jamaica,23167,North America 
+2015,Martinique,61731,North America 
+2015,Montserrat,1351,North America 
+2015,Puerto Rico,280494,North America 
+2015,Saint Kitts and Nevis,7443,North America 
+2015,Saint Lucia,8673,North America 
+2015,Saint Vincent and the Grenadines,4637,North America 
+2015,Sint Maarten (Dutch part),27295,North America 
+2015,Trinidad and Tobago,50021,North America 
+2015,Turks and Caicos Islands,22719,North America 
+2015,United States Virgin Islands,56721,North America 
+2015,Belize,54674,North America 
+2015,Costa Rica,411697,North America 
+2015,El Salvador,42045,North America 
+2015,Guatemala,78352,North America 
+2015,Honduras,38317,North America 
+2015,Mexico,1028803,North America 
+2015,Nicaragua,40262,North America 
+2015,Panama,184710,North America 
+2015,South America,6072903,North America 
+2015,Argentina,2086302,South America
+2015,Bolivia ,142989,South America
+2015,Brazil,716568,South America
+2015,Chile,639724,South America
+2015,Colombia,139134,South America
+2015,Ecuador,387513,South America
+2015,Falkland Islands (Malvinas),1571,South America
+2015,French Guiana,106108,South America
+2015,Guyana,15384,South America
+2015,Paraguay,156462,South America
+2015,Peru,154774,South America
+2015,Suriname,43127,South America
+2015,Uruguay,78799,South America
+2015,Venezuela (Bolivarian Republic of),1404448,South America
+2015,Australia,6729730,Oceania
+2015,New Zealand,1039736,Oceania
+2015,Melanesia,119344,Oceania
+2015,Fiji,13751,Oceania
+2015,New Caledonia,68881,Oceania
+2015,Papua New Guinea,30940,Oceania
+2015,Solomon Islands,2585,Oceania
+2015,Vanuatu,3187,Oceania
+2015,Micronesia,113523,Oceania
+2015,Guam,76089,Oceania
+2015,Kiribati,2919,Oceania
+2015,Marshall Islands,3284,Oceania
+2015,Micronesia (Fed. States of),2756,Oceania
+2015,Nauru,1890,Oceania
+2015,Northern Mariana Islands,21648,Oceania
+2015,Palau,4937,Oceania
+2015,Polynesia,67611,Oceania
+2015,American Samoa,23513,Oceania
+2015,Cook Islands,3477,Oceania
+2015,French Polynesia,30058,Oceania
+2015,Niue,588,Oceania
+2015,Samoa,4252,Oceania
+2015,Tokelau,487,Oceania
+2015,Tonga,3954,Oceania
+2015,Tuvalu,230,Oceania
+2015,Wallis and Futuna Islands,1052,Oceania
+2015,Belarus,1082905,Europe
+2015,Bulgaria,123803,Europe
+2015,Czechia,416454,Europe
+2015,Hungary,475508,Europe
+2015,Poland,619403,Europe
+2015,Republic of Moldova,106374,Europe
+2015,Romania,281048,Europe
+2015,Russian Federation,11643276,Europe
+2015,Slovakia,177624,Europe
+2015,Ukraine,4915142,Europe
+2015,Channel Islands,82307,Europe
+2015,Denmark,595876,Europe
+2015,Estonia,194664,Europe
+2015,Faroe Islands,5485,Europe
+2015,Finland,314856,Europe
+2015,Iceland,39072,Europe
+2015,Ireland,759256,Europe
+2015,Isle of Man,42238,Europe
+2015,Latvia,265418,Europe
+2015,Lithuania,136021,Europe
+2015,Norway,746375,Europe
+2015,Sweden,1676264,Europe
+2015,United Kingdom,8411569,Europe
+2015,Albania,52031,Europe
+2015,Andorra,42264,Europe
+2015,Bosnia and Herzegovina,38574,Europe
+2015,Croatia,561093,Europe
+2015,Gibraltar,11065,Europe
+2015,Greece,1242924,Europe
+2015,Holy See,803,Europe
+2015,Italy,5805328,Europe
+2015,Malta,52642,Europe
+2015,Montenegro,71719,Europe
+2015,North Macedonia,130730,Europe
+2015,Portugal,864814,Europe
+2015,San Marino,5195,Europe
+2015,Serbia,807441,Europe
+2015,Slovenia,237616,Europe
+2015,Spain,5891208,Europe
+2015,Austria,1492374,Europe
+2015,Belgium,1783488,Europe
+2015,France,7874172,Europe
+2015,Germany,10220418,Europe
+2015,Liechtenstein,23799,Europe
+2015,Luxembourg,248888,Europe
+2015,Monaco,25983,Europe
+2015,Netherlands,1996318,Europe
+2015,Switzerland,2416394,Europe
+2015,Bermuda,19126,North America 
+2015,Canada,7428657,North America 
+2015,Greenland,5797,North America 
+2015,Saint Pierre and Miquelon,986,North America 
+2015,United States of America,48178877,North America 
+2019,Burundi,321018,Africa
+2019,Comoros,12504,Africa
+2019,Djibouti,115341,Africa
+2019,Eritrea,16101,Africa
+2019,Ethiopia,1253083,Africa
+2019,Kenya,1044854,Africa
+2019,Madagascar,34934,Africa
+2019,Malawi,247652,Africa
+2019,Mauritius,28849,Africa
+2019,Mayotte,74643,Africa
+2019,Mozambique,334665,Africa
+2019,Réunion,129153,Africa
+2019,Rwanda,539932,Africa
+2019,Seychelles,12926,Africa
+2019,Somalia,52131,Africa
+2019,South Sudan,865552,Africa
+2019,Uganda,1734166,Africa
+2019, Tanzania,509166,Africa
+2019,Zambia,170249,Africa
+2019,Zimbabwe,411257,Africa
+2019,Angola,669479,Africa
+2019,Cameroon,505692,Africa
+2019,Central African Republic,90649,Africa
+2019,Chad,512230,Africa
+2019,Congo,402142,Africa
+2019,Democratic Republic of the Congo,963833,Africa
+2019,Equatorial Guinea,227617,Africa
+2019,Gabon,411463,Africa
+2019,Sao Tome and Principe,2174,Africa
+2019,Botswana,110596,Africa
+2019,Eswatini,32310,Africa
+2019,Lesotho,6928,Africa
+2019,Namibia,107561,Africa
+2019,South Africa,4224256,Africa
+2019,Benin,390112,Africa
+2019,Burkina Faso,718338,Africa
+2019,Cabo Verde,15664,Africa
+2019,Côte d'Ivoire,2549141,Africa
+2019,Gambia,215406,Africa
+2019,Ghana,466780,Africa
+2019,Guinea,120642,Africa
+2019,Guinea-Bissau,26916,Africa
+2019,Liberia,94448,Africa
+2019,Mali,468230,Africa
+2019,Mauritania,172987,Africa
+2019,Niger,294161,Africa
+2019,Nigeria,1256408,Africa
+2019,Saint Helena,433,Africa
+2019,Senegal,275239,Africa
+2019,Sierra Leone,54332,Africa
+2019,Togo,279142,Africa
+2019,Algeria,249075,Africa
+2019,Egypt,504053,Africa
+2019,Libya,818216,Africa
+2019,Morocco,98574,Africa
+2019,Sudan,1223092,Africa
+2019,Tunisia,57455,Africa
+2019,Western Sahara,5384,Africa
+2019,Armenia,190159,Asia
+2019,Azerbaijan,253887,Asia
+2019,Bahrain,741161,Asia
+2019,Cyprus,191922,Asia
+2019,Georgia,79035,Asia
+2019,Iraq,368062,Asia
+2019,Israel,1956346,Asia
+2019,Jordan,3346703,Asia
+2019,Kuwait,3034845,Asia
+2019,Lebanon,1863873,Asia
+2019,Oman,2286226,Asia
+2019,Qatar,2229688,Asia
+2019,Saudi Arabia,13122338,Asia
+2019,State of Palestine,253735,Asia
+2019,Syrian Arab Republic,867848,Asia
+2019,Turkey,5876829,Asia
+2019,United Arab Emirates,8587256,Asia
+2019,Yemen,385628,Asia
+2019,Kazakhstan,3705556,Asia
+2019,Kyrgyzstan,200260,Asia
+2019,Tajikistan,274071,Asia
+2019,Turkmenistan,195127,Asia
+2019,Uzbekistan,1168384,Asia
+2019,Afghanistan,149762,Asia
+2019,Bangladesh,2185613,Asia
+2019,Bhutan,53254,Asia
+2019,India,5154737,Asia
+2019,Iran ,2682214,Asia
+2019,Maldives,69249,Asia
+2019,Nepal,490802,Asia
+2019,Pakistan,3257978,Asia
+2019,Sri Lanka,40018,Asia
+2019,China,1030871,Asia
+2019,"China, Hong Kong SAR",2942254,Asia
+2019,"China, Macao SAR",399572,Asia
+2019,Dem. People's Republic of Korea,49393,Asia
+2019,Japan,2498891,Asia
+2019,Mongolia,21128,Asia
+2019,Republic of Korea,1163655,Asia
+2019,Brunei Darussalam,110641,Asia
+2019,Cambodia,78649,Asia
+2019,Indonesia,353135,Asia
+2019,Lao People's Democratic Republic,48275,Asia
+2019,Malaysia,3430380,Asia
+2019,Myanmar,75998,Asia
+2019,Philippines,218530,Asia
+2019,Singapore,2155653,Asia
+2019,Thailand,3635085,Asia
+2019,Timor-Leste,8417,Asia
+2019,Viet Nam,76104,Asia
+2019,Anguilla,5679,North America 
+2019,Antigua and Barbuda,29207,North America 
+2019,Aruba,36532,North America 
+2019,Bahamas,62962,North America 
+2019,Barbados,34807,North America 
+2019,British Virgin Islands,20778,North America 
+2019,"Bonaire, Sint Eustatius and Saba",15484,North America 
+2019,Cayman Islands,28985,North America 
+2019,Cuba,4886,North America 
+2019,Curaçao,40883,North America 
+2019,Dominica,8264,North America 
+2019,Dominican Republic,567648,North America 
+2019,Grenada,7124,North America 
+2019,Guadeloupe,100030,North America 
+2019,Haiti,18756,North America 
+2019,Jamaica,23468,North America 
+2019,Martinique,61647,North America 
+2019,Montserrat,1375,North America 
+2019,Puerto Rico,266828,North America 
+2019,Saint Kitts and Nevis,7587,North America 
+2019,Saint Lucia,8383,North America 
+2019,Saint Vincent and the Grenadines,4692,North America 
+2019,Sint Maarten (Dutch part),28260,North America 
+2019,Trinidad and Tobago,59249,North America 
+2019,Turks and Caicos Islands,24534,North America 
+2019,United States Virgin Islands,56745,North America 
+2019,Belize,59998,North America 
+2019,Costa Rica,417768,North America 
+2019,El Salvador,42617,North America 
+2019,Guatemala,80421,North America 
+2019,Honduras,38933,North America 
+2019,Mexico,1060707,North America 
+2019,Nicaragua,42172,North America 
+2019,Panama,185072,North America 
+2019,Argentina,2212879,South America
+2019,Bolivia ,156114,South America
+2019,Brazil,807006,South America
+2019,Chile,939992,South America
+2019,Colombia,1142319,South America
+2019,Ecuador,381507,South America
+2019,Falkland Islands (Malvinas),1902,South America
+2019,French Guiana,117372,South America
+2019,Guyana,15699,South America
+2019,Paraguay,160519,South America
+2019,Peru,782169,South America
+2019,Suriname,46157,South America
+2019,Uruguay,81482,South America
+2019,Venezuela ,1375690,South America
+2019,Australia,7549270,Oceania
+2019,New Zealand,1068739,Oceania
+2019,Melanesia,123564,Oceania
+2019,Fiji,14038,Oceania
+2019,New Caledonia,72537,Oceania
+2019,Papua New Guinea,31212,Oceania
+2019,Solomon Islands,2532,Oceania
+2019,Vanuatu,3245,Oceania
+2019,Micronesia,117978,Oceania
+2019,Guam,79846,Oceania
+2019,Kiribati,3022,Oceania
+2019,Marshall Islands,3296,Oceania
+2019,Micronesia (Fed. States of),2819,Oceania
+2019,Nauru,2114,Oceania
+2019,Northern Mariana Islands,21815,Oceania
+2019,Palau,5066,Oceania
+2019,Polynesia,68374,Oceania
+2019,American Samoa,23539,Oceania
+2019,Cook Islands,3491,Oceania
+2019,French Polynesia,31205,Oceania
+2019,Niue,588,Oceania
+2019,Samoa,4035,Oceania
+2019,Tokelau,504,Oceania
+2019,Tonga,3752,Oceania
+2019,Tuvalu,238,Oceania
+2019,Wallis and Futuna Islands,1022,Oceania
+2019,Belarus,1069395,Europe
+2019,Bulgaria,168516,Europe
+2019,Czechia,512705,Europe
+2019,Hungary,512043,Europe
+2019,Poland,655985,Europe
+2019,Republic of Moldova,104713,Europe
+2019,Romania,462552,Europe
+2019,Russian Federation,11640559,Europe
+2019,Slovakia,187984,Europe
+2019,Ukraine,4964293,Europe
+2019,Channel Islands,83833,Europe
+2019,Denmark,722878,Europe
+2019,Estonia,190242,Europe
+2019,Faroe Islands,6454,Europe
+2019,Finland,383116,Europe
+2019,Iceland,52404,Europe
+2019,Ireland,833564,Europe
+2019,Isle of Man,42864,Europe
+2019,Latvia,237266,Europe
+2019,Lithuania,117218,Europe
+2019,Norway,867765,Europe
+2019,Sweden,2005210,Europe
+2019,United Kingdom,9552110,Europe
+2019,Albania,49160,Europe
+2019,Andorra,45102,Europe
+2019,Bosnia and Herzegovina,35735,Europe
+2019,Croatia,518083,Europe
+2019,Gibraltar,11172,Europe
+2019,Greece,1211382,Europe
+2019,Holy See,799,Europe
+2019,Italy,6273722,Europe
+2019,Malta,84949,Europe
+2019,Montenegro,70967,Europe
+2019,North Macedonia,131175,Europe
+2019,Portugal,888162,Europe
+2019,San Marino,5507,Europe
+2019,Serbia,820312,Europe
+2019,Slovenia,253122,Europe
+2019,Spain,6104203,Europe
+2019,Austria,1779857,Europe
+2019,Belgium,1981919,Europe
+2019,France,8334875,Europe
+2019,Germany,13132146,Europe
+2019,Liechtenstein,25467,Europe
+2019,Luxembourg,291723,Europe
+2019,Monaco,26511,Europe
+2019,Netherlands,2282791,Europe
+2019,Switzerland,2572029,Europe
+2019,Bermuda,19336,North America 
+2019,Canada,7960657,North America 
+2019,Greenland,5690,North America 
+2019,Saint Pierre and Miquelon,990,North America 
+2019,United States of America,50661149,North America 
