@@ -1,0 +1,110 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 400,
+  "title": "Migration stock per year",
+  "data":{
+    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/migration_bubbleplot.csv"
+  },
+
+  "params": [
+    {
+      "name": "Continent_selection",
+      "bind":{
+        "input":"select",
+        "options": [
+          null,
+          "North America ",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "labels":[
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+
+        ],
+        "name": "Continent Selection: "
+        }
+    }
+  ],
+
+  "transform": [
+    {"filter": "Continent_selection == null || datum.Continent == Continent_selection"}
+  ],
+
+ "encoding": {
+    "x":{
+      "field":"Year",
+      "type": "ordinal",
+      "title": "Year"
+  },
+    "y":{
+      "field":"Total",
+      "type": "quantitative"
+    },
+    "color":{
+      "field":"Continent",
+      "type": "nominal"
+    },
+
+    "opacity":{
+      "condition":{"selection": "continent_highlight","value":0.6},
+      "value":0.2
+    },
+    "tooltip":[
+      {"field":"Country","type": "nominal"},
+      {"field":"Year","type": "ordinal"},
+      {"field":"Total","type":"quantitative","format":","},
+      {"field":"Continent","type": "nominal"}
+    ]
+  },
+  "layer":[ 
+  {
+    "selection": {
+    "continent_highlight":{
+      "type": "multi",
+      "fields":["Continent"],
+      "bind":"legend"
+    }
+  },
+  "mark": "circle"
+  },
+  {
+    "mark":{
+      "type": "text",
+      "align": "right",
+      "baseline": "middle",
+      "dx": -12,
+      "fontSize": 11.5,
+      "fontStyle": "italic"
+    },
+
+    "encoding":{
+      "text":{"field": "Country","type":"nominal"},
+      "color":{"value":"black"},
+      "opacity":{
+        "condition":{
+          "test": "datum['Country'] == 'China'|| datum['Country'] == 'Australia' || datum['Country'] == 'Yemen' || datum['Country'] == 'Italy' || datum['Country'] == 'Yemen'",
+          "value":1
+          },
+          "value":0
+      },
+      "tooltip":[
+        {"field": "Country","type":"nominal"},
+        {"field": "Year","type": "ordinal"},
+        {"field": "Total","type": "quantitative"}
+      ]
+    }
+  }
+
+]
+
+}
