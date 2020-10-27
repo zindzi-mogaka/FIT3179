@@ -1,0 +1,20 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 400,
+  "title": "",
+  "data": {
+    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/migration_bubbleplot.csv"
+  },
+  "mark":"area",
+  "encoding": {
+    "x":{
+      "timeUnit":"year","field":"Year"},
+    "y":{"aggregate":"sum","field":"Total"},
+    "color":{"field":"Continent","scale":{"scheme":"category20b"}}
+    }
+    
+  
+
+
+}
