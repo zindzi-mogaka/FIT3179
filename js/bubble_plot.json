@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Migration stock per year",
   "data":{
-    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/migration_bubbleplot.csv"
+    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/world_migration.csv"
   },
 
   "params": [
