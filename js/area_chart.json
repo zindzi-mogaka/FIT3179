@@ -4,7 +4,7 @@
   "height": 400,
   "title": "",
   "data": {
-    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/first.csv"
+    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/world_migration.csv"
   },
   "mark":"area",
   "encoding": {
