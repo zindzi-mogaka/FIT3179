@@ -1,0 +1,16 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 400,
+  "title": "Migration stock per year for selected country",
+  "data": {
+    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/world_migration.csv"
+  },
+  "transform": [{"filter": "datum.Country=='Burundi'"}],
+  "mark": "line",
+  "encoding": {
+    "x": {"field": "Year", "type": "ordinal"},
+    "y": {"field": "Total", "type": "quantitative"}
+  }
+}
+
