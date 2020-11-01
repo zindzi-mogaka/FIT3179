@@ -13,9 +13,11 @@
 }
 
 h1{
+    font: 
     font-weight: 510;
-	background-color: #f3ebf5;
-	color: blue;
-	padding-left: 5px;
-	text-align:center;
+    background-color: #f3ebf5;
+    color: blue;
+    padding-left: 5px;
+    text-align:centre;
 }
+
