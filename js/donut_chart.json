@@ -1,11 +1,13 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "data": { 
-        "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/Migration_status.csv"
+  "data": {
+    "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/data/Migration_status.csv"
   },
   "mark": {"type": "arc", "innerRadius": 50},
   "encoding": {
     "theta": {"field": "Percent", "type": "quantitative"},
-    "color": {"field": "Type", "type": "nominal"
+    "color": {"field": "Type", "type": "nominal"},
+    "tooltip":[{"field":"Type","type": "nominal"},
+    {"field":"Percent","type":"quantitative"}]
   }
-}}
+}
