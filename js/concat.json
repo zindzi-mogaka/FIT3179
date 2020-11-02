@@ -31,16 +31,15 @@
           "x": {"field": "Year", "type": "ordinal"},
           "y": {"field": "Total", "type": "quantitative"}
         }
-        
+
       }]
     }, {
-
+      "projection": {"type": "equalEarth"},
       "layer":[
         
         {
-        "width": 600,
+        "width": 900,
         "height": 500,
-        
         "data": {
         "url": "https://raw.githubusercontent.com/zindzi-mogaka/FIT3179/main/js/ne_110m_admin_0_countries.topojson",
         "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
@@ -82,3 +81,5 @@
   ]
     
 }
+
+
