@@ -13,7 +13,7 @@
         "min": 1990,
         "max": 2020,
         "step": 5,
-        "name": "Migratoin Year"
+        "name": "Migration Year"
       }
     }
   ],
