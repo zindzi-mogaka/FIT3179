@@ -75,8 +75,33 @@
           "y": {"field": "Total", "type": "quantitative"}
         }
 
-      }]
-    }
+      },
+      {
+        "mark":{
+          "type":"text",
+          "align": "right",
+          "baseline": "middle",
+          "dx": -12,
+          "fontSize": 11.5,
+          "fontStyle": "italic"
+      },
+        "encoding": {
+          "text":{"field":"Country","type":"nominal"},
+          "color":{"value":"black"},
+          "opacity":{
+            "condition":{
+              "selection":"pts","value":1
+              },"value":0},
+          "tooltip":[
+            {"field":"Country","type": "nominal"}
+          ]
+            }
+       }
+
+        
+      ]
+     }
+    
 
   ]
     
