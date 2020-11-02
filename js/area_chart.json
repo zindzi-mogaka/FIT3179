@@ -11,7 +11,7 @@
     "x":{
       "timeUnit":"year","field":"Year"},
     "y":{"aggregate":"sum","field":"Total"},
-    "color":{"field":"Continent","scale":{"scheme":"category20b"}}
+    "color":{"field":"Continent","scale":{"scheme":"category10"}}
     }
     
   
